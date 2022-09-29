@@ -1,0 +1,32 @@
+{
+    "id": "25885FD4",
+    "path": "~/Documents/Doutorado/tese_slides/tese_slides.qmd",
+    "project_path": "tese_slides.qmd",
+    "type": "quarto_markdown",
+    "hash": "2561041582",
+    "contents": "",
+    "dirty": false,
+    "created": 1661641929521.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "rmdVisualMode": "false",
+        "rmdVisualWrapConfigured": "true",
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "docOutlineVisible": "1",
+        "rmdVisualCollapsedChunks": "",
+        "cursorPosition": "1,57",
+        "scrollLine": "0",
+        "rmdVisualModeLocation": "623:322"
+    },
+    "folds": "43|28|54|0|\n65|87|146|0|\n",
+    "lastKnownWriteTime": 1663610234,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1663610234158,
+    "read_only": false,
+    "read_only_alternatives": []
+}

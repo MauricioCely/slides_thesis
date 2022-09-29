@@ -1,0 +1,41 @@
+
+# mp4 to GIF --------------------------------------------------------------
+library(gifski)
+library(av)
+
+av::av_video_images(video = "cs.mp4", destdir = "BORRAR/", format = "png")
+
+
+
+# Render GIF --------------------------------------------------------------
+
+gifski(png_files = list.files(path = "BORRAR", full.names = T), 
+       gif_file = "CS.gif", width = 512, height = 288,
+       delay = 1/25, progress = T, loop = T)
+
+
+library(av)
+
+
+av::av_video_info("Free_Convection.mp4")
+
+
+# Append Images -----------------------------------------------------------
+
+
+
+library(magick)
+
+a <- 
+image_read("misc/logo.png")
+
+b<- 
+  image_read("misc/capes.png") %>% 
+  image_scale(geometry = "x114")
+
+c<- 
+  image_read("misc/logo_right.png") %>% 
+  image_scale(geometry = "x114")
+
+image_append(c(a,b,c)) %>% 
+  image_write("misc/logo3.png")

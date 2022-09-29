@@ -1,0 +1,5730 @@
+{
+    "sources": [
+        {
+            "DOI": "10.1007/bf00122339",
+            "URL": "http://dx.doi.org/10.1007/bf00122339",
+            "author": [
+                {
+                    "family": "Gao",
+                    "given": "W."
+                },
+                {
+                    "family": "Shaw",
+                    "given": "R. H."
+                },
+                {
+                    "family": "Paw U",
+                    "given": "K. T."
+                }
+            ],
+            "container-title": "Boundary-Layer Meteorology",
+            "id": "gao1989",
+            "issue": "1-4",
+            "issued": {
+                "date-parts": [
+                    [
+                        1989,
+                        4
+                    ]
+                ]
+            },
+            "language": "en",
+            "page": "349-377",
+            "title": "Observation of organized structure in turbulent flow within and above a forest canopy",
+            "type": "article-journal",
+            "volume": "47"
+        },
+        {
+            "DOI": "10.1002/2017jg003988",
+            "URL": "http://dx.doi.org/10.1002/2017JG003988",
+            "author": [
+                {
+                    "family": "Jocher",
+                    "given": "Georg"
+                },
+                {
+                    "family": "Marshall",
+                    "given": "John"
+                },
+                {
+                    "family": "Nilsson",
+                    "given": "Mats B."
+                },
+                {
+                    "family": "Linder",
+                    "given": "Sune"
+                },
+                {
+                    "family": "De Simon",
+                    "given": "Giuseppe"
+                },
+                {
+                    "family": "Hörnlund",
+                    "given": "Thomas"
+                },
+                {
+                    "family": "Lundmark",
+                    "given": "Tomas"
+                },
+                {
+                    "family": "Näsholm",
+                    "given": "Torgny"
+                },
+                {
+                    "family": "Ottosson Löfvenius",
+                    "given": "Mikaell"
+                },
+                {
+                    "family": "Tarvainen",
+                    "given": "Lasse"
+                },
+                {
+                    "family": "Wallin",
+                    "given": "Göran"
+                },
+                {
+                    "family": "Peichl",
+                    "given": "Matthias"
+                }
+            ],
+            "container-title": "Journal of Geophysical Research: Biogeosciences",
+            "id": "jocher2018",
+            "issue": "2",
+            "issued": {
+                "date-parts": [
+                    [
+                        2018,
+                        2
+                    ]
+                ]
+            },
+            "language": "en",
+            "page": "303-325",
+            "title": "Impact of Canopy Decoupling and Subcanopy Advection on the Annual Carbon Balance of a Boreal Scots Pine Forest as Derived From Eddy Covariance",
+            "type": "article-journal",
+            "volume": "123"
+        },
+        {
+            "DOI": "10.1111/gcb.15892",
+            "URL": "http://dx.doi.org/10.1111/gcb.15892",
+            "author": [
+                {
+                    "family": "Haesen",
+                    "given": "Stef"
+                },
+                {
+                    "family": "Lembrechts",
+                    "given": "Jonas J."
+                },
+                {
+                    "family": "De Frenne",
+                    "given": "Pieter"
+                },
+                {
+                    "family": "Lenoir",
+                    "given": "Jonathan"
+                },
+                {
+                    "family": "Aalto",
+                    "given": "Juha"
+                },
+                {
+                    "family": "Ashcroft",
+                    "given": "Michael B."
+                },
+                {
+                    "family": "Kopecký",
+                    "given": "Martin"
+                },
+                {
+                    "family": "Luoto",
+                    "given": "Miska"
+                },
+                {
+                    "family": "Maclean",
+                    "given": "Ilya"
+                },
+                {
+                    "family": "Nijs",
+                    "given": "Ivan"
+                },
+                {
+                    "family": "Niittynen",
+                    "given": "Pekka"
+                },
+                {
+                    "family": "Hoogen",
+                    "given": "Johan"
+                },
+                {
+                    "family": "Arriga",
+                    "given": "Nicola"
+                },
+                {
+                    "family": "Brůna",
+                    "given": "Josef"
+                },
+                {
+                    "family": "Buchmann",
+                    "given": "Nina"
+                },
+                {
+                    "family": "Čiliak",
+                    "given": "Marek"
+                },
+                {
+                    "family": "Collalti",
+                    "given": "Alessio"
+                },
+                {
+                    "family": "De Lombaerde",
+                    "given": "Emiel"
+                },
+                {
+                    "family": "Descombes",
+                    "given": "Patrice"
+                },
+                {
+                    "family": "Gharun",
+                    "given": "Mana"
+                },
+                {
+                    "family": "Goded",
+                    "given": "Ignacio"
+                },
+                {
+                    "family": "Govaert",
+                    "given": "Sanne"
+                },
+                {
+                    "family": "Greiser",
+                    "given": "Caroline"
+                },
+                {
+                    "family": "Grelle",
+                    "given": "Achim"
+                },
+                {
+                    "family": "Gruening",
+                    "given": "Carsten"
+                },
+                {
+                    "family": "Hederová",
+                    "given": "Lucia"
+                },
+                {
+                    "family": "Hylander",
+                    "given": "Kristoffer"
+                },
+                {
+                    "family": "Kreyling",
+                    "given": "Jürgen"
+                },
+                {
+                    "family": "Kruijt",
+                    "given": "Bart"
+                },
+                {
+                    "family": "Macek",
+                    "given": "Martin"
+                },
+                {
+                    "family": "Máliš",
+                    "given": "František"
+                },
+                {
+                    "family": "Man",
+                    "given": "Matěj"
+                },
+                {
+                    "family": "Manca",
+                    "given": "Giovanni"
+                },
+                {
+                    "family": "Matula",
+                    "given": "Radim"
+                },
+                {
+                    "family": "Meeussen",
+                    "given": "Camille"
+                },
+                {
+                    "family": "Merinero",
+                    "given": "Sonia"
+                },
+                {
+                    "family": "Minerbi",
+                    "given": "Stefano"
+                },
+                {
+                    "family": "Montagnani",
+                    "given": "Leonardo"
+                },
+                {
+                    "family": "Muffler",
+                    "given": "Lena"
+                },
+                {
+                    "family": "Ogaya",
+                    "given": "Romà"
+                },
+                {
+                    "family": "Penuelas",
+                    "given": "Josep"
+                },
+                {
+                    "family": "Plichta",
+                    "given": "Roman"
+                },
+                {
+                    "family": "Portillo-Estrada",
+                    "given": "Miguel"
+                },
+                {
+                    "family": "Schmeddes",
+                    "given": "Jonas"
+                },
+                {
+                    "family": "Shekhar",
+                    "given": "Ankit"
+                },
+                {
+                    "family": "Spicher",
+                    "given": "Fabien"
+                },
+                {
+                    "family": "Ujházyová",
+                    "given": "Mariana"
+                },
+                {
+                    "family": "Vangansbeke",
+                    "given": "Pieter"
+                },
+                {
+                    "family": "Weigel",
+                    "given": "Robert"
+                },
+                {
+                    "family": "Wild",
+                    "given": "Jan"
+                },
+                {
+                    "family": "Zellweger",
+                    "given": "Florian"
+                },
+                {
+                    "family": "Van Meerbeek",
+                    "given": "Koenraad"
+                }
+            ],
+            "container-title": "Global Change Biology",
+            "id": "haesen2021",
+            "issue": "23",
+            "issued": {
+                "date-parts": [
+                    [
+                        2021,
+                        10,
+                        3
+                    ]
+                ]
+            },
+            "language": "en",
+            "page": "6307-6319",
+            "title": "ForestTemp  Sub-canopy microclimate temperatures of European forests",
+            "type": "article-journal",
+            "volume": "27"
+        },
+        {
+            "DOI": "10.1016/j.agrformet.2020.108149",
+            "URL": "http://dx.doi.org/10.1016/j.agrformet.2020.108149",
+            "author": [
+                {
+                    "family": "Jocher",
+                    "given": "Georg"
+                },
+                {
+                    "family": "Fischer",
+                    "given": "Milan"
+                },
+                {
+                    "family": "Šigut",
+                    "given": "Ladislav"
+                },
+                {
+                    "family": "Pavelka",
+                    "given": "Marian"
+                },
+                {
+                    "family": "Sedlák",
+                    "given": "Pavel"
+                },
+                {
+                    "family": "Katul",
+                    "given": "Gabriel"
+                }
+            ],
+            "container-title": "Agricultural and Forest Meteorology",
+            "id": "jocher2020",
+            "issued": {
+                "date-parts": [
+                    [
+                        2020,
+                        11
+                    ]
+                ]
+            },
+            "language": "en",
+            "page": "108149",
+            "title": "Assessing decoupling of above and below canopy air masses at a Norway spruce stand in complex terrain",
+            "type": "article-journal",
+            "volume": "294"
+        },
+        {
+            "DOI": "10.5194/bg-17-6423-2020",
+            "URL": "http://dx.doi.org/10.5194/bg-17-6423-2020",
+            "author": [
+                {
+                    "family": "Schilperoort",
+                    "given": "Bart"
+                },
+                {
+                    "family": "Coenders-Gerrits",
+                    "given": "Miriam"
+                },
+                {
+                    "family": "Jiménez Rodríguez",
+                    "given": "César"
+                },
+                {
+                    "dropping-particle": "van der",
+                    "family": "Tol",
+                    "given": "Christiaan"
+                },
+                {
+                    "dropping-particle": "van de",
+                    "family": "Wiel",
+                    "given": "Bas"
+                },
+                {
+                    "family": "Savenije",
+                    "given": "Hubert"
+                }
+            ],
+            "container-title": "Biogeosciences",
+            "id": "schilperoort2020",
+            "issue": "24",
+            "issued": {
+                "date-parts": [
+                    [
+                        2020,
+                        12,
+                        21
+                    ]
+                ]
+            },
+            "language": "en",
+            "page": "6423-6439",
+            "title": "Decoupling of a Douglas fir canopy: a look into the subcanopy with continuous vertical temperature profiles",
+            "title-short": "Decoupling of a Douglas fir canopy",
+            "type": "article-journal",
+            "volume": "17"
+        },
+        {
+            "DOI": "10.1016/j.agrformet.2022.108960",
+            "URL": "http://dx.doi.org/10.1016/j.agrformet.2022.108960",
+            "author": [
+                {
+                    "family": "Schilperoort",
+                    "given": "Bart"
+                },
+                {
+                    "family": "Coenders-Gerrits",
+                    "given": "Miriam"
+                },
+                {
+                    "family": "Rodríguez",
+                    "given": "César Jiménez"
+                },
+                {
+                    "dropping-particle": "van",
+                    "family": "Hooft",
+                    "given": "Antoon"
+                },
+                {
+                    "dropping-particle": "van de",
+                    "family": "Wiel",
+                    "given": "Bas"
+                },
+                {
+                    "family": "Savenije",
+                    "given": "Hubert"
+                }
+            ],
+            "container-title": "Agricultural and Forest Meteorology",
+            "id": "schilperoort2022",
+            "issued": {
+                "date-parts": [
+                    [
+                        2022,
+                        6
+                    ]
+                ]
+            },
+            "language": "en",
+            "page": "108960",
+            "title": "Detecting nighttime inversions in the interior of a Douglas fir canopy",
+            "type": "article-journal",
+            "volume": "321"
+        },
+        {
+            "DOI": "10.1016/j.agrformet.2022.108983",
+            "URL": "http://dx.doi.org/10.1016/j.agrformet.2022.108983",
+            "author": [
+                {
+                    "family": "Cava",
+                    "given": "Daniela"
+                },
+                {
+                    "family": "Dias-Júnior",
+                    "given": "Cléo Q."
+                },
+                {
+                    "family": "Acevedo",
+                    "given": "Otávio"
+                },
+                {
+                    "family": "Oliveira",
+                    "given": "Pablo E. S."
+                },
+                {
+                    "family": "Tsokankunku",
+                    "given": "Anywhere"
+                },
+                {
+                    "family": "Sörgel",
+                    "given": "Matthias"
+                },
+                {
+                    "family": "Manzi",
+                    "given": "Antônio Ocimar"
+                },
+                {
+                    "family": "Araújo",
+                    "given": "Alessandro C.",
+                    "non-dropping-particle": "de"
+                },
+                {
+                    "family": "Brondani",
+                    "given": "Daiane V."
+                },
+                {
+                    "family": "Toro",
+                    "given": "Ivan Mauricio Cely"
+                },
+                {
+                    "family": "Mortarini",
+                    "given": "Luca"
+                }
+            ],
+            "container-title": "Agricultural and Forest Meteorology",
+            "id": "cava2022",
+            "issued": {
+                "date-parts": [
+                    [
+                        2022,
+                        7
+                    ]
+                ]
+            },
+            "language": "en",
+            "page": "108983",
+            "title": "Vertical propagation of submeso and coherent structure in a tall and dense Amazon Forest in different stability conditions PART I: Flow structure within and above the roughness sublayer",
+            "title-short": "Vertical propagation of submeso and coherent structure in a tall and dense Amazon Forest in different stability conditions PART I",
+            "type": "article-journal",
+            "volume": "322"
+        },
+        {
+            "DOI": "10.1016/j.agrformet.2022.108993",
+            "URL": "http://dx.doi.org/10.1016/j.agrformet.2022.108993",
+            "author": [
+                {
+                    "family": "Mortarini",
+                    "given": "Luca"
+                },
+                {
+                    "family": "Dias-Júnior",
+                    "given": "Cléo Q."
+                },
+                {
+                    "family": "Acevedo",
+                    "given": "Otávio"
+                },
+                {
+                    "family": "Oliveira",
+                    "given": "Pablo E. S."
+                },
+                {
+                    "family": "Tsokankunku",
+                    "given": "Anywhere"
+                },
+                {
+                    "family": "Sörgel",
+                    "given": "Matthias"
+                },
+                {
+                    "family": "Manzi",
+                    "given": "Antônio Ocimar"
+                },
+                {
+                    "family": "Araújo",
+                    "given": "Alessandro C.",
+                    "non-dropping-particle": "de"
+                },
+                {
+                    "family": "Brondani",
+                    "given": "Daiane V."
+                },
+                {
+                    "family": "Toro",
+                    "given": "Ivan Mauricio Cely"
+                },
+                {
+                    "family": "Giostra",
+                    "given": "Umberto"
+                },
+                {
+                    "family": "Cava",
+                    "given": "Daniela"
+                }
+            ],
+            "container-title": "Agricultural and Forest Meteorology",
+            "id": "mortarini2022",
+            "issued": {
+                "date-parts": [
+                    [
+                        2022,
+                        7
+                    ]
+                ]
+            },
+            "language": "en",
+            "page": "108993",
+            "title": "Vertical propagation of submeso and coherent structure in a tall and dense amazon forest in different stability conditions. PART II: Coherent structures analysis",
+            "title-short": "Vertical propagation of submeso and coherent structure in a tall and dense amazon forest in different stability conditions. PART II",
+            "type": "article-journal",
+            "volume": "322"
+        },
+        {
+            "DOI": "10.1016/0168-1923(92)90025-y",
+            "URL": "http://dx.doi.org/10.1016/0168-1923(92)90025-Y",
+            "author": [
+                {
+                    "family": "Paw-U",
+                    "given": "Kyaw Tha"
+                },
+                {
+                    "family": "Brunet",
+                    "given": "Yves"
+                },
+                {
+                    "family": "Collineau",
+                    "given": "Serge"
+                },
+                {
+                    "family": "Shaw",
+                    "given": "Roger H."
+                },
+                {
+                    "family": "Maitani",
+                    "given": "Toshihiko"
+                },
+                {
+                    "family": "Qiu",
+                    "given": "Jie"
+                },
+                {
+                    "family": "Hipps",
+                    "given": "Lawrence"
+                }
+            ],
+            "container-title": "Agricultural and Forest Meteorology",
+            "id": "pawu1992",
+            "issue": "1-2",
+            "issued": {
+                "date-parts": [
+                    [
+                        1992,
+                        9
+                    ]
+                ]
+            },
+            "language": "en",
+            "page": "55-68",
+            "title": "On coherent structures in turbulence above and within agricultural plant canopies",
+            "type": "article-journal",
+            "volume": "61"
+        },
+        {
+            "DOI": "10.1023/a:1000338817250",
+            "URL": "http://dx.doi.org/10.1023/A:1000338817250",
+            "author": [
+                {
+                    "family": "Chen",
+                    "given": "Wenjun"
+                },
+                {
+                    "family": "Novak",
+                    "given": "Michael D."
+                },
+                {
+                    "family": "Black",
+                    "given": "T. Andrew"
+                },
+                {
+                    "family": "Lee",
+                    "given": "Xuhui"
+                }
+            ],
+            "container-title": "Boundary-Layer Meteorology",
+            "id": "chen1997",
+            "issue": "1",
+            "issued": {
+                "date-parts": [
+                    [
+                        1997,
+                        7
+                    ]
+                ]
+            },
+            "language": "en",
+            "page": "99-124",
+            "title": "Coherent eddies and temperature structure functions for three contrasting surfaces. Part I: Ramp model with finite microfront time",
+            "title-short": "Coherent eddies and temperature structure functions for three contrasting surfaces. Part I",
+            "type": "article-journal",
+            "volume": "84"
+        },
+        {
+            "DOI": "10.1016/j.agrformet.2012.01.011",
+            "URL": "http://dx.doi.org/10.1016/j.agrformet.2012.01.011",
+            "author": [
+                {
+                    "family": "Dupont",
+                    "given": "S."
+                },
+                {
+                    "family": "Patton",
+                    "given": "E. G."
+                }
+            ],
+            "container-title": "Agricultural and Forest Meteorology",
+            "id": "dupont2012a",
+            "issued": {
+                "date-parts": [
+                    [
+                        2012,
+                        5
+                    ]
+                ]
+            },
+            "language": "en",
+            "page": "11-29",
+            "title": "Influence of stability and seasonal canopy changes on micrometeorology within and above an orchard canopy: The CHATS experiment",
+            "title-short": "Influence of stability and seasonal canopy changes on micrometeorology within and above an orchard canopy",
+            "type": "article-journal",
+            "volume": "157"
+        },
+        {
+            "DOI": "10.5194/acp-12-5913-2012",
+            "URL": "http://dx.doi.org/10.5194/acp-12-5913-2012",
+            "author": [
+                {
+                    "family": "Dupont",
+                    "given": "S."
+                },
+                {
+                    "family": "Patton",
+                    "given": "E. G."
+                }
+            ],
+            "container-title": "Atmospheric Chemistry and Physics",
+            "id": "dupont2012b",
+            "issue": "13",
+            "issued": {
+                "date-parts": [
+                    [
+                        2012,
+                        7,
+                        12
+                    ]
+                ]
+            },
+            "language": "en",
+            "page": "5913-5935",
+            "title": "Momentum and scalar transport within a vegetation canopy following atmospheric stability and seasonal canopy changes: the CHATS experiment",
+            "title-short": "Momentum and scalar transport within a vegetation canopy following atmospheric stability and seasonal canopy changes",
+            "type": "article-journal",
+            "volume": "12"
+        },
+        {
+            "DOI": "10.1023/a:1001108411184",
+            "URL": "http://dx.doi.org/10.1023/A:1001108411184",
+            "author": [
+                {
+                    "family": "Su",
+                    "given": "Hong-Bing"
+                },
+                {
+                    "family": "Shaw",
+                    "given": "Roger H."
+                },
+                {
+                    "family": "Paw",
+                    "given": "Kyaw Tha"
+                },
+                {
+                    "family": "Moeng",
+                    "given": "Chin-Hoh"
+                },
+                {
+                    "family": "Sullivan",
+                    "given": "Peter P."
+                }
+            ],
+            "container-title": "Boundary-Layer Meteorology",
+            "id": "su1998",
+            "issue": "3",
+            "issued": {
+                "date-parts": [
+                    [
+                        1998,
+                        9
+                    ]
+                ]
+            },
+            "language": "en",
+            "page": "363-397",
+            "title": "Turbulent Statistics of Neutrally Stratified Flow Within and Above a Sparse Forest from Large-Eddy Simulation and Field Observations",
+            "type": "article-journal",
+            "volume": "88"
+        },
+        {
+            "DOI": "10.1007/s10546-006-9054-8",
+            "URL": "http://dx.doi.org/10.1007/s10546-006-9054-8",
+            "author": [
+                {
+                    "family": "Foster",
+                    "given": "Ralph C."
+                },
+                {
+                    "family": "Vianey",
+                    "given": "Francois"
+                },
+                {
+                    "family": "Drobinski",
+                    "given": "Philippe"
+                },
+                {
+                    "family": "Carlotti",
+                    "given": "Pierre"
+                }
+            ],
+            "container-title": "Boundary-Layer Meteorology",
+            "id": "foster2006",
+            "issue": "2",
+            "issued": {
+                "date-parts": [
+                    [
+                        2006,
+                        4,
+                        19
+                    ]
+                ]
+            },
+            "language": "en",
+            "page": "229-255",
+            "title": "Near-Surface Coherent Structures and The Vertical Momentum Flux in a Large-Eddy Simulation of the Neutrally-Stratified Boundary Layer",
+            "type": "article-journal",
+            "volume": "120"
+        },
+        {
+            "DOI": "10.1017/s0022112009990589",
+            "URL": "http://dx.doi.org/10.1017/S0022112009990589",
+            "author": [
+                {
+                    "family": "Finnigan",
+                    "given": "John J."
+                },
+                {
+                    "family": "Shaw",
+                    "given": "Roger H."
+                },
+                {
+                    "family": "Patton",
+                    "given": "Edward G."
+                }
+            ],
+            "container-title": "Journal of Fluid Mechanics",
+            "id": "finnigan2009",
+            "issued": {
+                "date-parts": [
+                    [
+                        2009,
+                        10,
+                        7
+                    ]
+                ]
+            },
+            "language": "en",
+            "page": "387-424",
+            "title": "Turbulence structure above a vegetation canopy",
+            "type": "article-journal",
+            "volume": "637"
+        },
+        {
+            "DOI": "10.1016/j.jweia.2016.05.002",
+            "URL": "http://dx.doi.org/10.1016/j.jweia.2016.05.002",
+            "author": [
+                {
+                    "family": "Liu",
+                    "given": "Zhenqing"
+                },
+                {
+                    "family": "Ishihara",
+                    "given": "Takeshi"
+                },
+                {
+                    "family": "He",
+                    "given": "Xuhui"
+                },
+                {
+                    "family": "Niu",
+                    "given": "Huawei"
+                }
+            ],
+            "container-title": "Journal of Wind Engineering and Industrial Aerodynamics",
+            "id": "liu2016",
+            "issued": {
+                "date-parts": [
+                    [
+                        2016,
+                        8
+                    ]
+                ]
+            },
+            "language": "en",
+            "page": "60-73",
+            "title": "LES study on the turbulent flow fields over complex terrain covered by vegetation canopy",
+            "type": "article-journal",
+            "volume": "155"
+        },
+        {
+            "DOI": "10.3390/atmos12121631",
+            "URL": "http://dx.doi.org/10.3390/atmos12121631",
+            "author": [
+                {
+                    "family": "Serra-Neto",
+                    "given": "Edivaldo M."
+                },
+                {
+                    "family": "Martins",
+                    "given": "Hardiney S."
+                },
+                {
+                    "family": "Dias-Júnior",
+                    "given": "Cléo Q."
+                },
+                {
+                    "family": "Santana",
+                    "given": "Raoni A."
+                },
+                {
+                    "family": "Brondani",
+                    "given": "Daiane V."
+                },
+                {
+                    "family": "Manzi",
+                    "given": "Antônio O."
+                },
+                {
+                    "family": "Araújo",
+                    "given": "Alessandro C.",
+                    "non-dropping-particle": "de"
+                },
+                {
+                    "family": "Teixeira",
+                    "given": "Paulo R."
+                },
+                {
+                    "family": "Sörgel",
+                    "given": "Matthias"
+                },
+                {
+                    "family": "Mortarini",
+                    "given": "Luca"
+                }
+            ],
+            "container-title": "Atmosphere",
+            "id": "serra-neto2021",
+            "issue": "12",
+            "issued": {
+                "date-parts": [
+                    [
+                        2021,
+                        12,
+                        7
+                    ]
+                ]
+            },
+            "language": "en",
+            "page": "1631",
+            "title": "Simulation of the Scalar Transport above and within the Amazon Forest Canopy",
+            "type": "article-journal",
+            "volume": "12"
+        },
+        {
+            "DOI": "10.1115/1.2345370",
+            "URL": "http://dx.doi.org/10.1115/1.2345370",
+            "author": [
+                {
+                    "family": "Alfonsi",
+                    "given": "Giancarlo"
+                }
+            ],
+            "container-title": "Applied Mechanics Reviews",
+            "id": "alfonsi2006",
+            "issue": "6",
+            "issued": {
+                "date-parts": [
+                    [
+                        2006,
+                        11,
+                        1
+                    ]
+                ]
+            },
+            "language": "en",
+            "page": "307-323",
+            "title": "Coherent Structures of Turbulence: Methods of Eduction and Results",
+            "title-short": "Coherent Structures of Turbulence",
+            "type": "article-journal",
+            "volume": "59"
+        },
+        {
+            "DOI": "10.1007/bf00120941",
+            "URL": "http://dx.doi.org/10.1007/BF00120941",
+            "author": [
+                {
+                    "family": "Raupach",
+                    "given": "M. R."
+                },
+                {
+                    "family": "Finnigan",
+                    "given": "J. J."
+                },
+                {
+                    "family": "Brunei",
+                    "given": "Y."
+                }
+            ],
+            "container-title": "Boundary-Layer Meteorology",
+            "id": "raupach1996",
+            "issue": "3-4",
+            "issued": {
+                "date-parts": [
+                    [
+                        1996,
+                        3
+                    ]
+                ]
+            },
+            "language": "en",
+            "page": "351-382",
+            "title": "Coherent eddies and turbulence in vegetation canopies: The mixing-layer analogy",
+            "title-short": "Coherent eddies and turbulence in vegetation canopies",
+            "type": "article-journal",
+            "volume": "78"
+        },
+        {
+            "DOI": "10.1146/annurev.fl.23.010191.003125",
+            "URL": "http://dx.doi.org/10.1146/annurev.fl.23.010191.003125",
+            "author": [
+                {
+                    "family": "Robinson",
+                    "given": "S K"
+                }
+            ],
+            "container-title": "Annual Review of Fluid Mechanics",
+            "id": "robinson1991",
+            "issue": "1",
+            "issued": {
+                "date-parts": [
+                    [
+                        1991,
+                        1
+                    ]
+                ]
+            },
+            "language": "en",
+            "page": "601-639",
+            "title": "Coherent Motions in the Turbulent Boundary Layer",
+            "type": "article-journal",
+            "volume": "23"
+        },
+        {
+            "DOI": "10.1007/s10546-011-9619-z",
+            "URL": "http://dx.doi.org/10.1007/s10546-011-9619-z",
+            "author": [
+                {
+                    "family": "Serafimovich",
+                    "given": "Andrei"
+                },
+                {
+                    "family": "Thomas",
+                    "given": "Christoph"
+                },
+                {
+                    "family": "Foken",
+                    "given": "Thomas"
+                }
+            ],
+            "container-title": "Boundary-Layer Meteorology",
+            "id": "serafimovich2011",
+            "issue": "3",
+            "issued": {
+                "date-parts": [
+                    [
+                        2011,
+                        5,
+                        12
+                    ]
+                ]
+            },
+            "language": "en",
+            "page": "429-451",
+            "title": "Vertical and Horizontal Transport of Energy and Matter by Coherent Motions in a Tall Spruce Canopy",
+            "type": "article-journal",
+            "volume": "140"
+        },
+        {
+            "DOI": "10.1063/1.864048",
+            "URL": "http://dx.doi.org/10.1063/1.864048",
+            "author": [
+                {
+                    "family": "Hussain",
+                    "given": "A. K. M. F."
+                }
+            ],
+            "container-title": "Physics of Fluids",
+            "id": "hussain1983",
+            "issue": "10",
+            "issued": {
+                "date-parts": [
+                    [
+                        1983
+                    ]
+                ]
+            },
+            "language": "en",
+            "page": "2816",
+            "title": "Coherent structuresreality and myth",
+            "type": "article-journal",
+            "volume": "26"
+        },
+        {
+            "DOI": "10.1146/annurev.fluid.32.1.519",
+            "URL": "http://dx.doi.org/10.1146/annurev.fluid.32.1.519",
+            "author": [
+                {
+                    "family": "Finnigan",
+                    "given": "John"
+                }
+            ],
+            "container-title": "Annual Review of Fluid Mechanics",
+            "id": "finnigan2000",
+            "issue": "1",
+            "issued": {
+                "date-parts": [
+                    [
+                        2000,
+                        1
+                    ]
+                ]
+            },
+            "language": "en",
+            "page": "519-571",
+            "title": "Turbulence in Plant Canopies",
+            "type": "article-journal",
+            "volume": "32"
+        },
+        {
+            "DOI": "10.1007/s10546-007-9190-9",
+            "URL": "http://dx.doi.org/10.1007/s10546-007-9190-9",
+            "author": [
+                {
+                    "family": "Barthlott",
+                    "given": "Christian"
+                },
+                {
+                    "family": "Drobinski",
+                    "given": "Philippe"
+                },
+                {
+                    "family": "Fesquet",
+                    "given": "Clément"
+                },
+                {
+                    "family": "Dubos",
+                    "given": "Thomas"
+                },
+                {
+                    "family": "Pietras",
+                    "given": "Christophe"
+                }
+            ],
+            "container-title": "Boundary-Layer Meteorology",
+            "id": "barthlott2007",
+            "issue": "1",
+            "issued": {
+                "date-parts": [
+                    [
+                        2007,
+                        7,
+                        7
+                    ]
+                ]
+            },
+            "language": "en",
+            "page": "1-24",
+            "title": "Long-term study of coherent structures in the atmospheric surface layer",
+            "type": "article-journal",
+            "volume": "125"
+        },
+        {
+            "DOI": "10.1007/bf00117300",
+            "URL": "http://dx.doi.org/10.1007/BF00117300",
+            "author": [
+                {
+                    "family": "Raupach",
+                    "given": "M. R."
+                },
+                {
+                    "family": "Coppin",
+                    "given": "P. A."
+                },
+                {
+                    "family": "Legg",
+                    "given": "B. J."
+                }
+            ],
+            "container-title": "Boundary-Layer Meteorology",
+            "id": "raupach1986",
+            "issue": "1-2",
+            "issued": {
+                "date-parts": [
+                    [
+                        1986,
+                        4
+                    ]
+                ]
+            },
+            "language": "en",
+            "page": "21-52",
+            "title": "Experiments on scalar dispersion within a model plant canopy part I: The turbulence structure",
+            "title-short": "Experiments on scalar dispersion within a model plant canopy part I",
+            "type": "article-journal",
+            "volume": "35"
+        },
+        {
+            "DOI": "10.1023/a:1000301303543",
+            "URL": "http://dx.doi.org/10.1023/A:1000301303543",
+            "author": [
+                {
+                    "family": "Dwyer",
+                    "given": "Michael J."
+                },
+                {
+                    "family": "Patton",
+                    "given": "Edward G."
+                },
+                {
+                    "family": "Shaw",
+                    "given": "Roger H."
+                }
+            ],
+            "container-title": "Boundary-Layer Meteorology",
+            "id": "dwyer1997",
+            "issue": "1",
+            "issued": {
+                "date-parts": [
+                    [
+                        1997,
+                        7
+                    ]
+                ]
+            },
+            "language": "en",
+            "page": "23-43",
+            "title": "Turbulent kinetic energy budgets from a large-eddy simulation of airflow above and within a forest canopy",
+            "type": "article-journal",
+            "volume": "84"
+        },
+        {
+            "DOI": "10.1007/s10546-006-9087-z",
+            "URL": "http://dx.doi.org/10.1007/s10546-006-9087-z",
+            "author": [
+                {
+                    "family": "Thomas",
+                    "given": "Christoph"
+                },
+                {
+                    "family": "Foken",
+                    "given": "Thomas"
+                }
+            ],
+            "container-title": "Boundary-Layer Meteorology",
+            "id": "thomas2006",
+            "issue": "1",
+            "issued": {
+                "date-parts": [
+                    [
+                        2006,
+                        7,
+                        21
+                    ]
+                ]
+            },
+            "language": "en",
+            "page": "123-147",
+            "title": "Organised Motion in a Tall Spruce Canopy: Temporal Scales, Structure Spacing and Terrain Effects",
+            "title-short": "Organised Motion in a Tall Spruce Canopy",
+            "type": "article-journal",
+            "volume": "122"
+        },
+        {
+            "DOI": "10.1002/9781118527221",
+            "URL": "http://dx.doi.org/10.1002/9781118527221",
+            "editor": [
+                {
+                    "family": "Venditti",
+                    "given": "Jeremy G."
+                },
+                {
+                    "family": "Best",
+                    "given": "James L."
+                },
+                {
+                    "family": "Church",
+                    "given": "Michael"
+                },
+                {
+                    "family": "Hardy",
+                    "given": "Richard J."
+                }
+            ],
+            "id": "coherent2013",
+            "issued": {
+                "date-parts": [
+                    [
+                        2013,
+                        10,
+                        11
+                    ]
+                ]
+            },
+            "publisher": "John Wiley & Sons, Ltd",
+            "title": "Coherent flow structures at earth’s surface",
+            "type": "book"
+        },
+        {
+            "DOI": "https://doi.org/10.1002/9781118527221.ch6",
+            "ISBN": "9781118527221",
+            "URL": "https://onlinelibrary.wiley.com/doi/abs/10.1002/9781118527221.ch6",
+            "abstract": "Summary The exchange of scalars between the biosphere and the atmosphere has direct bearing on a large number of problems such as climate change, air and water quality, agricultural management and food security, landscape ecology, and decision making for environmental compliances and policy formulation. Near the canopy-atmosphere interface, turbulent fluctuations in scalar concentrations exhibit complex dynamic behaviour that shows some parallels with the transporting turbulent velocity field. However, the statistical properties of scalar turbulence within and just above the canopy can also be partly decoupled from those of the transporting velocity. Here, a unifying framework is proposed that accounts for vertical variations in scalar sources and sinks within the canopy volume, the lack of equilibrium between production and dissipation terms in second-order scalar budget equations, the rapid changes in turbulent kinetic energy dissipation rate inside canopies, the relative importance of ejections and sweeps, the role of thermal stratification, and the “near-field” effects of the scalar source on gradient-diffusion theories. Ways in which these same phenomena modify the scalar spectra and scalar-vertical velocity co-spectra within the inertial subrange above the canopy and at scales finer than the wake generation region within the canopy are presented. Finally, the origin of organized eddy structure connected with surface renewal that leads to scalar ramps is briefly discussed. The work draws upon a large number of flume, wind tunnel, and field experiments, and offers novel theoretical scaling arguments as to how coherency in the flow field impacts scalar spectra and scalar-velocity co-spectra at scales smaller than the shear production scales.",
+            "author": [
+                {
+                    "family": "Katul",
+                    "given": "Gabriel G."
+                },
+                {
+                    "family": "Cava",
+                    "given": "Daniela"
+                },
+                {
+                    "family": "Siqueira",
+                    "given": "Mario"
+                },
+                {
+                    "family": "Poggi",
+                    "given": "Davide"
+                }
+            ],
+            "chapter-number": "6",
+            "container-title": "Coherent flow structures at earth’s surface",
+            "id": "katul2013",
+            "issued": {
+                "date-parts": [
+                    [
+                        2013
+                    ]
+                ]
+            },
+            "keyword": "scalars, canopy-atmosphere interface, turbulence, ejections, sweeps, thermal stratification, near-field effects",
+            "page": "73-95",
+            "publisher": "John Wiley & Sons, Ltd",
+            "title": "Scalar turbulence within the canopy sublayer",
+            "type": "chapter"
+        },
+        {
+            "author": [
+                {
+                    "family": "Bergström",
+                    "given": "Hans"
+                },
+                {
+                    "family": "Högström",
+                    "given": "Ulf"
+                }
+            ],
+            "container-title": "Boundary-Layer Meteorology",
+            "id": "bergstrom1989",
+            "issue": "3",
+            "issued": {
+                "date-parts": [
+                    [
+                        1989
+                    ]
+                ]
+            },
+            "page": "231-263",
+            "publisher": "Springer",
+            "title": "Turbulent exchange above a pine forest II. Organized structures",
+            "type": "article-journal",
+            "volume": "49"
+        },
+        {
+            "author": [
+                {
+                    "family": "Raupach",
+                    "given": "MR"
+                }
+            ],
+            "container-title": "Boundary-Layer Meteorology",
+            "id": "raupach1979",
+            "issue": "3",
+            "issued": {
+                "date-parts": [
+                    [
+                        1979
+                    ]
+                ]
+            },
+            "page": "467-486",
+            "publisher": "Springer",
+            "title": "Anomalies in flux-gradient relationships over forest",
+            "type": "article-journal",
+            "volume": "16"
+        },
+        {
+            "author": [
+                {
+                    "family": "Baldocchi",
+                    "given": "Dennis D"
+                },
+                {
+                    "family": "Meyers",
+                    "given": "Tilden P"
+                }
+            ],
+            "container-title": "Boundary-Layer Meteorology",
+            "id": "baldocchi1988",
+            "issue": "4",
+            "issued": {
+                "date-parts": [
+                    [
+                        1988
+                    ]
+                ]
+            },
+            "page": "345-364",
+            "publisher": "Springer",
+            "title": "Turbulence structure in a deciduous forest",
+            "type": "article-journal",
+            "volume": "43"
+        },
+        {
+            "author": [
+                {
+                    "family": "Bosveld",
+                    "given": "Fred C"
+                },
+                {
+                    "family": "Holtslag",
+                    "given": "AAM"
+                },
+                {
+                    "family": "Van Den Hurk",
+                    "given": "BJJM"
+                }
+            ],
+            "container-title": "Boundary-Layer Meteorology",
+            "id": "bosveld1999",
+            "issue": "2",
+            "issued": {
+                "date-parts": [
+                    [
+                        1999
+                    ]
+                ]
+            },
+            "page": "171-195",
+            "publisher": "Springer",
+            "title": "Nighttime convection in the interior of a dense douglas fir forest",
+            "type": "article-journal",
+            "volume": "93"
+        },
+        {
+            "DOI": "10.1007/s10546-006-9145-6",
+            "URL": "http://dx.doi.org/10.1007/s10546-006-9145-6",
+            "author": [
+                {
+                    "family": "Harman",
+                    "given": "Ian N."
+                },
+                {
+                    "family": "Finnigan",
+                    "given": "John J."
+                }
+            ],
+            "container-title": "Boundary-Layer Meteorology",
+            "id": "harman2007",
+            "issue": "2",
+            "issued": {
+                "date-parts": [
+                    [
+                        2007,
+                        3,
+                        1
+                    ]
+                ]
+            },
+            "language": "en",
+            "page": "339-363",
+            "title": "A simple unified theory for flow in the canopy and roughness sublayer",
+            "type": "article-journal",
+            "volume": "123"
+        },
+        {
+            "DOI": "10.1007/s10546-008-9328-4",
+            "URL": "http://dx.doi.org/10.1007/s10546-008-9328-4",
+            "author": [
+                {
+                    "family": "Harman",
+                    "given": "Ian N."
+                },
+                {
+                    "family": "Finnigan",
+                    "given": "John J."
+                }
+            ],
+            "container-title": "Boundary-Layer Meteorology",
+            "id": "harman2008",
+            "issue": "3",
+            "issued": {
+                "date-parts": [
+                    [
+                        2008,
+                        10,
+                        30
+                    ]
+                ]
+            },
+            "language": "en",
+            "page": "323-351",
+            "title": "Scalar Concentration Profiles in the Canopy and Roughness Sublayer",
+            "type": "article-journal",
+            "volume": "129"
+        },
+        {
+            "DOI": "10.1007/s10546-020-00560-7",
+            "URL": "http://dx.doi.org/10.1007/s10546-020-00560-7",
+            "author": [
+                {
+                    "family": "Brunet",
+                    "given": "Yves"
+                }
+            ],
+            "container-title": "Boundary-Layer Meteorology",
+            "id": "brunet2020",
+            "issue": "2-3",
+            "issued": {
+                "date-parts": [
+                    [
+                        2020,
+                        9,
+                        25
+                    ]
+                ]
+            },
+            "language": "en",
+            "page": "315-364",
+            "title": "Turbulent Flow in Plant Canopies: Historical Perspective and Overview",
+            "title-short": "Turbulent Flow in Plant Canopies",
+            "type": "article-journal",
+            "volume": "177"
+        },
+        {
+            "DOI": "10.1007/bf00709238",
+            "URL": "http://dx.doi.org/10.1007/BF00709238",
+            "author": [
+                {
+                    "family": "Shaw",
+                    "given": "R. H."
+                },
+                {
+                    "family": "Brunet",
+                    "given": "Y."
+                },
+                {
+                    "family": "Finnigan",
+                    "given": "J. J."
+                },
+                {
+                    "family": "Raupach",
+                    "given": "M. R."
+                }
+            ],
+            "container-title": "Boundary-Layer Meteorology",
+            "id": "shaw1995",
+            "issue": "4",
+            "issued": {
+                "date-parts": [
+                    [
+                        1995,
+                        12
+                    ]
+                ]
+            },
+            "language": "en",
+            "page": "349-376",
+            "title": "A wind tunnel study of air flow in waving wheat: Two-point velocity statistics",
+            "title-short": "A wind tunnel study of air flow in waving wheat",
+            "type": "article-journal",
+            "volume": "76"
+        },
+        {
+            "DOI": "10.1023/a:1002406616227",
+            "URL": "http://dx.doi.org/10.1023/A:1002406616227",
+            "author": [
+                {
+                    "family": "Brunet",
+                    "given": "Y."
+                },
+                {
+                    "family": "Irvine",
+                    "given": "M. R."
+                }
+            ],
+            "container-title": "Boundary-Layer Meteorology",
+            "id": "brunet2000",
+            "issue": "1",
+            "issued": {
+                "date-parts": [
+                    [
+                        2000,
+                        1
+                    ]
+                ]
+            },
+            "language": "en",
+            "page": "139-163",
+            "title": "The Control Of Coherent Eddies In Vegetation Canopies: Streamwise Structure Spacing, Canopy Shear Scale And Atmospheric Stability",
+            "title-short": "The Control Of Coherent Eddies In Vegetation Canopies",
+            "type": "article-journal",
+            "volume": "94"
+        },
+        {
+            "DOI": "10.1175/jas-d-15-0068.1",
+            "URL": "http://dx.doi.org/10.1175/JAS-D-15-0068.1",
+            "author": [
+                {
+                    "family": "Patton",
+                    "given": "Edward G."
+                },
+                {
+                    "family": "Sullivan",
+                    "given": "Peter P."
+                },
+                {
+                    "family": "Shaw",
+                    "given": "Roger H."
+                },
+                {
+                    "family": "Finnigan",
+                    "given": "John J."
+                },
+                {
+                    "family": "Weil",
+                    "given": "Jeffrey C."
+                }
+            ],
+            "container-title": "Journal of the Atmospheric Sciences",
+            "id": "patton2016",
+            "issue": "4",
+            "issued": {
+                "date-parts": [
+                    [
+                        2016,
+                        3,
+                        3
+                    ]
+                ]
+            },
+            "language": "en",
+            "page": "1621-1647",
+            "title": "Atmospheric Stability Influences on Coupled Boundary Layer and Canopy Turbulence",
+            "type": "article-journal",
+            "volume": "73"
+        },
+        {
+            "DOI": "10.1016/j.jweia.2012.12.019",
+            "URL": "http://dx.doi.org/10.1016/j.jweia.2012.12.019",
+            "author": [
+                {
+                    "family": "Dias-Júnior",
+                    "given": "C. Q."
+                },
+                {
+                    "family": "Sá",
+                    "given": "L. D. A."
+                },
+                {
+                    "family": "Pachêco",
+                    "given": "V. B."
+                },
+                {
+                    "dropping-particle": "de",
+                    "family": "Souza",
+                    "given": "C. M."
+                }
+            ],
+            "container-title": "Journal of Wind Engineering and Industrial Aerodynamics",
+            "id": "diasjunior2013",
+            "issued": {
+                "date-parts": [
+                    [
+                        2013,
+                        4
+                    ]
+                ]
+            },
+            "language": "en",
+            "page": "1-8",
+            "title": "Coherent structures detected in the unstable atmospheric surface layer above the Amazon forest",
+            "type": "article-journal",
+            "volume": "115"
+        },
+        {
+            "DOI": "10.1111/j.1600-0889.2007.00313.x",
+            "URL": "http://dx.doi.org/10.1111/j.1600-0889.2007.00313.x",
+            "author": [
+                {
+                    "family": "Launiainen",
+                    "given": "Samuli"
+                },
+                {
+                    "family": "Veasal",
+                    "given": "Timo"
+                },
+                {
+                    "family": "Mölder",
+                    "given": "Meelis"
+                },
+                {
+                    "family": "Mammarella",
+                    "given": "Ivan"
+                },
+                {
+                    "family": "Smolander",
+                    "given": "Sampo"
+                },
+                {
+                    "family": "Rannik",
+                    "given": "Üllar"
+                },
+                {
+                    "family": "Kolari",
+                    "given": "Pasi"
+                },
+                {
+                    "family": "Hari",
+                    "given": "Pertti"
+                },
+                {
+                    "family": "Lindroth",
+                    "given": "Anders"
+                },
+                {
+                    "family": "Katul",
+                    "given": "Gabriel G."
+                }
+            ],
+            "container-title": "Tellus B: Chemical and Physical Meteorology",
+            "id": "launiainen2007",
+            "issue": "5",
+            "issued": {
+                "date-parts": [
+                    [
+                        2007,
+                        1
+                    ]
+                ]
+            },
+            "language": "en",
+            "page": "919-936",
+            "title": "Vertical variability and effect of stability on turbulence characteristics down to the floor of a pine forest",
+            "type": "article-journal",
+            "volume": "59"
+        },
+        {
+            "DOI": "10.1002/qj.49712454904",
+            "URL": "http://dx.doi.org/10.1002/qj.49712454904",
+            "author": [
+                {
+                    "family": "Lee",
+                    "given": "Xuhui"
+                },
+                {
+                    "family": "Barr",
+                    "given": "Alan G."
+                }
+            ],
+            "container-title": "Quarterly Journal of the Royal Meteorological Society",
+            "id": "lee1998",
+            "issue": "549",
+            "issued": {
+                "date-parts": [
+                    [
+                        1998,
+                        7
+                    ]
+                ]
+            },
+            "language": "en",
+            "page": "1403-1419",
+            "title": "Climatology of gravity waves in a forest",
+            "type": "article-journal",
+            "volume": "124"
+        },
+        {
+            "DOI": "10.1023/b:boun.0000020160.28184.a0",
+            "URL": "http://dx.doi.org/10.1023/B:BOUN.0000020160.28184.a0",
+            "author": [
+                {
+                    "family": "Cava",
+                    "given": "D."
+                },
+                {
+                    "family": "Giostra",
+                    "given": "U."
+                },
+                {
+                    "family": "Siqueira",
+                    "given": "M."
+                },
+                {
+                    "family": "Katul",
+                    "given": "G."
+                }
+            ],
+            "container-title": "Boundary-Layer Meteorology",
+            "id": "cava2004",
+            "issue": "1",
+            "issued": {
+                "date-parts": [
+                    [
+                        2004,
+                        7
+                    ]
+                ]
+            },
+            "language": "en",
+            "page": "129-157",
+            "title": "Organised Motion and Radiative Perturbations in the Nocturnal Canopy Sublayer above an Even-Aged Pine Forest",
+            "type": "article-journal",
+            "volume": "112"
+        },
+        {
+            "DOI": "10.1007/s10546-005-9038-0",
+            "URL": "http://dx.doi.org/10.1007/s10546-005-9038-0",
+            "author": [
+                {
+                    "family": "Thomas",
+                    "given": "Christoph"
+                },
+                {
+                    "family": "Mayer",
+                    "given": "Jens-Christopher"
+                },
+                {
+                    "family": "Meixner",
+                    "given": "Franz X."
+                },
+                {
+                    "family": "Foken",
+                    "given": "Thomas"
+                }
+            ],
+            "container-title": "Boundary-Layer Meteorology",
+            "id": "thomas2006a",
+            "issue": "3",
+            "issued": {
+                "date-parts": [
+                    [
+                        2006,
+                        1,
+                        24
+                    ]
+                ]
+            },
+            "language": "en",
+            "page": "563-587",
+            "title": "Analysis of Low-Frequency Turbulence Above Tall Vegetation Using a Doppler Sodar",
+            "type": "article-journal",
+            "volume": "119"
+        },
+        {
+            "DOI": "10.1023/a:1024118808670",
+            "URL": "http://dx.doi.org/10.1023/A:1024118808670",
+            "author": [
+                {
+                    "family": "Villani",
+                    "given": "M. G."
+                },
+                {
+                    "family": "Schmid",
+                    "given": "H. P."
+                },
+                {
+                    "family": "Su",
+                    "given": "H.-B."
+                },
+                {
+                    "family": "Hutton",
+                    "given": "J. L."
+                },
+                {
+                    "family": "Vogel",
+                    "given": "C. S."
+                }
+            ],
+            "container-title": "Boundary-Layer Meteorology",
+            "id": "villani2003",
+            "issue": "3",
+            "issued": {
+                "date-parts": [
+                    [
+                        2003,
+                        9
+                    ]
+                ]
+            },
+            "language": "en",
+            "page": "343-364",
+            "title": "Turbulence Statistics Measurements in a Northern Hardwood Forest",
+            "type": "article-journal",
+            "volume": "108"
+        },
+        {
+            "DOI": "10.1007/s10546-016-0158-5",
+            "URL": "http://dx.doi.org/10.1007/s10546-016-0158-5",
+            "author": [
+                {
+                    "family": "Santos",
+                    "given": "Daniel M."
+                },
+                {
+                    "family": "Acevedo",
+                    "given": "Otávio C."
+                },
+                {
+                    "family": "Chamecki",
+                    "given": "Marcelo"
+                },
+                {
+                    "family": "Fuentes",
+                    "given": "José D."
+                },
+                {
+                    "family": "Gerken",
+                    "given": "Tobias"
+                },
+                {
+                    "family": "Stoy",
+                    "given": "Paul C."
+                }
+            ],
+            "container-title": "Boundary-Layer Meteorology",
+            "id": "santos2016",
+            "issue": "1",
+            "issued": {
+                "date-parts": [
+                    [
+                        2016,
+                        4,
+                        21
+                    ]
+                ]
+            },
+            "language": "en",
+            "page": "73-98",
+            "title": "Temporal Scales of the Nocturnal Flow Within and Above a Forest Canopy in Amazonia",
+            "type": "article-journal",
+            "volume": "161"
+        },
+        {
+            "DOI": "10.5194/acp-18-3083-2018",
+            "URL": "http://dx.doi.org/10.5194/acp-18-3083-2018",
+            "author": [
+                {
+                    "family": "Oliveira",
+                    "given": "Pablo E. S."
+                },
+                {
+                    "family": "Acevedo",
+                    "given": "Otávio C."
+                },
+                {
+                    "family": "Sörgel",
+                    "given": "Matthias"
+                },
+                {
+                    "family": "Tsokankunku",
+                    "given": "Anywhere"
+                },
+                {
+                    "family": "Wolff",
+                    "given": "Stefan"
+                },
+                {
+                    "family": "Araújo",
+                    "given": "Alessandro C."
+                },
+                {
+                    "family": "Souza",
+                    "given": "Rodrigo A. F."
+                },
+                {
+                    "family": "Sá",
+                    "given": "Marta O."
+                },
+                {
+                    "family": "Manzi",
+                    "given": "Antônio O."
+                },
+                {
+                    "family": "Andreae",
+                    "given": "Meinrat O."
+                }
+            ],
+            "container-title": "Atmospheric Chemistry and Physics",
+            "id": "oliveira2018",
+            "issue": "5",
+            "issued": {
+                "date-parts": [
+                    [
+                        2018,
+                        3,
+                        5
+                    ]
+                ]
+            },
+            "language": "en",
+            "page": "3083-3099",
+            "title": "Nighttime wind and scalar variability within and above an Amazonian canopy",
+            "type": "article-journal",
+            "volume": "18"
+        },
+        {
+            "DOI": "10.1007/s00704-004-0093-0",
+            "URL": "http://dx.doi.org/10.1007/s00704-004-0093-0",
+            "author": [
+                {
+                    "family": "Thomas",
+                    "given": "Chr."
+                },
+                {
+                    "family": "Foken",
+                    "given": "Th."
+                }
+            ],
+            "container-title": "Theoretical and Applied Climatology",
+            "id": "thomas2004",
+            "issue": "2-4",
+            "issued": {
+                "date-parts": [
+                    [
+                        2004,
+                        12,
+                        15
+                    ]
+                ]
+            },
+            "language": "en",
+            "page": "91-104",
+            "title": "Detection of long-term coherent exchange over spruce forest using wavelet analysis",
+            "type": "article-journal",
+            "volume": "80"
+        },
+        {
+            "DOI": "10.1007/bf00707033",
+            "URL": "http://dx.doi.org/10.1007/BF00707033",
+            "author": [
+                {
+                    "family": "Collineau",
+                    "given": "Serge"
+                },
+                {
+                    "family": "Brunet",
+                    "given": "Yves"
+                }
+            ],
+            "container-title": "Boundary-Layer Meteorology",
+            "id": "collineau1993",
+            "issue": "4",
+            "issued": {
+                "date-parts": [
+                    [
+                        1993,
+                        9
+                    ]
+                ]
+            },
+            "language": "en",
+            "page": "357-379",
+            "title": "Detection of turbulent coherent motions in a forest canopy part I: Wavelet analysis",
+            "title-short": "Detection of turbulent coherent motions in a forest canopy part I",
+            "type": "article-journal",
+            "volume": "65"
+        },
+        {
+            "DOI": "10.1007/bf00705459",
+            "URL": "http://dx.doi.org/10.1007/BF00705459",
+            "author": [
+                {
+                    "family": "Collineau",
+                    "given": "Serge"
+                },
+                {
+                    "family": "Brunet",
+                    "given": "Yves"
+                }
+            ],
+            "container-title": "Boundary-Layer Meteorology",
+            "id": "collineau1993a",
+            "issue": "1-2",
+            "issued": {
+                "date-parts": [
+                    [
+                        1993,
+                        10
+                    ]
+                ]
+            },
+            "language": "en",
+            "page": "49-73",
+            "title": "Detection of turbulent coherent motions in a forest canopy part II: Time-scales and conditional averages",
+            "title-short": "Detection of turbulent coherent motions in a forest canopy part II",
+            "type": "article-journal",
+            "volume": "66"
+        },
+        {
+            "DOI": "10.1007/s00704-004-0111-2",
+            "URL": "http://dx.doi.org/10.1007/s00704-004-0111-2",
+            "author": [
+                {
+                    "family": "Feigenwinter",
+                    "given": "C."
+                },
+                {
+                    "family": "Vogt",
+                    "given": "R."
+                }
+            ],
+            "container-title": "Theoretical and Applied Climatology",
+            "id": "feigenwinter2005",
+            "issue": "3-4",
+            "issued": {
+                "date-parts": [
+                    [
+                        2005,
+                        2,
+                        16
+                    ]
+                ]
+            },
+            "language": "en",
+            "page": "219-230",
+            "title": "Detection and analysis of coherent structures in urban turbulence",
+            "type": "article-journal",
+            "volume": "81"
+        },
+        {
+            "author": [
+                {
+                    "family": "Anfossi",
+                    "given": "D"
+                },
+                {
+                    "family": "Öttl",
+                    "given": "Dietmar"
+                },
+                {
+                    "family": "Degrazia",
+                    "given": "G"
+                },
+                {
+                    "family": "Goulart",
+                    "given": "lA"
+                }
+            ],
+            "container-title": "Boundary-Layer Meteorology",
+            "id": "anfossi2005",
+            "issue": "1",
+            "issued": {
+                "date-parts": [
+                    [
+                        2005
+                    ]
+                ]
+            },
+            "page": "179-203",
+            "publisher": "Springer",
+            "title": "An analysis of sonic anemometer observations in low wind speed conditions",
+            "type": "article-journal",
+            "volume": "114"
+        },
+        {
+            "author": [
+                {
+                    "family": "Mortarini",
+                    "given": "L."
+                },
+                {
+                    "family": "Katul",
+                    "given": "G."
+                },
+                {
+                    "family": "Dias-Júnior",
+                    "given": "C. Q."
+                },
+                {
+                    "family": "Diaz",
+                    "given": "N."
+                },
+                {
+                    "family": "Cava",
+                    "given": "D."
+                }
+            ],
+            "id": "mortarini23",
+            "issued": {
+                "date-parts": [
+                    [
+                        2023
+                    ]
+                ]
+            },
+            "title": "Adjustments to the law-of-the wall above an amazon forest explained by a spectral link adjustments to the law-of-the wall above an amazon forest explained by a spectral link",
+            "type": "article-journal"
+        },
+        {
+            "DOI": "10.1175/JAS-D-18-0280.1",
+            "author": [
+                {
+                    "family": "Mortarini",
+                    "given": "L."
+                },
+                {
+                    "family": "Cava",
+                    "given": "D."
+                },
+                {
+                    "family": "Giostra",
+                    "given": "U."
+                },
+                {
+                    "family": "Costa",
+                    "given": "F. Denardin"
+                },
+                {
+                    "family": "Degrazia",
+                    "given": "G."
+                },
+                {
+                    "family": "Anfossi",
+                    "given": "D."
+                },
+                {
+                    "family": "Acevedo",
+                    "given": "O."
+                }
+            ],
+            "container-title": "Journal of the Atmospheric Sciences",
+            "id": "mortarini2019",
+            "issue": "10",
+            "issued": {
+                "date-parts": [
+                    [
+                        2019
+                    ]
+                ]
+            },
+            "page": "3029 - 3046",
+            "publisher": "American Meteorological Society",
+            "publisher-place": "Boston MA, USA",
+            "title": "Horizontal meandering as a distinctive feature of the stable boundary layer",
+            "type": "article-journal",
+            "volume": "76"
+        },
+        {
+            "DOI": "10.1007/s10546-008-9342-6",
+            "URL": "http://dx.doi.org/10.1007/s10546-008-9342-6",
+            "author": [
+                {
+                    "family": "Cava",
+                    "given": "D."
+                },
+                {
+                    "family": "Katul",
+                    "given": "G. G."
+                }
+            ],
+            "container-title": "Boundary-Layer Meteorology",
+            "id": "cava2009",
+            "issue": "3",
+            "issued": {
+                "date-parts": [
+                    [
+                        2009,
+                        2,
+                        4
+                    ]
+                ]
+            },
+            "language": "en",
+            "page": "307-325",
+            "title": "The Effects of Thermal Stratification on Clustering Properties of Canopy Turbulence",
+            "type": "article-journal",
+            "volume": "130"
+        },
+        {
+            "DOI": "10.1111/j.1365-2486.1996.tb00070.x",
+            "URL": "http://dx.doi.org/10.1111/j.1365-2486.1996.tb00070.x",
+            "author": [
+                {
+                    "family": "GOULDEN",
+                    "given": "MICHAEL L."
+                },
+                {
+                    "family": "MUNGER",
+                    "given": "J. WILLIAM"
+                },
+                {
+                    "family": "FAN",
+                    "given": "SONG-MIAO"
+                },
+                {
+                    "family": "DAUBE",
+                    "given": "BRUCE C."
+                },
+                {
+                    "family": "WOFSY",
+                    "given": "STEVEN C."
+                }
+            ],
+            "container-title": "Global Change Biology",
+            "id": "goulden1996",
+            "issue": "3",
+            "issued": {
+                "date-parts": [
+                    [
+                        1996,
+                        6
+                    ]
+                ]
+            },
+            "language": "en",
+            "page": "169-182",
+            "title": "Measurements of carbon sequestration by long-term eddy covariance: methods and a critical evaluation of accuracy",
+            "title-short": "Measurements of carbon sequestration by long-term eddy covariance",
+            "type": "article-journal",
+            "volume": "2"
+        },
+        {
+            "DOI": "10.5194/bg-3-571-2006",
+            "URL": "http://dx.doi.org/10.5194/bg-3-571-2006",
+            "author": [
+                {
+                    "family": "Papale",
+                    "given": "D."
+                },
+                {
+                    "family": "Reichstein",
+                    "given": "M."
+                },
+                {
+                    "family": "Aubinet",
+                    "given": "M."
+                },
+                {
+                    "family": "Canfora",
+                    "given": "E."
+                },
+                {
+                    "family": "Bernhofer",
+                    "given": "C."
+                },
+                {
+                    "family": "Kutsch",
+                    "given": "W."
+                },
+                {
+                    "family": "Longdoz",
+                    "given": "B."
+                },
+                {
+                    "family": "Rambal",
+                    "given": "S."
+                },
+                {
+                    "family": "Valentini",
+                    "given": "R."
+                },
+                {
+                    "family": "Vesala",
+                    "given": "T."
+                },
+                {
+                    "family": "Yakir",
+                    "given": "D."
+                }
+            ],
+            "container-title": "Biogeosciences",
+            "id": "papale2006",
+            "issue": "4",
+            "issued": {
+                "date-parts": [
+                    [
+                        2006,
+                        11,
+                        27
+                    ]
+                ]
+            },
+            "language": "en",
+            "page": "571-583",
+            "title": "Towards a standardized processing of Net Ecosystem Exchange measured with eddy covariance technique: algorithms and uncertainty estimation",
+            "title-short": "Towards a standardized processing of Net Ecosystem Exchange measured with eddy covariance technique",
+            "type": "article-journal",
+            "volume": "3"
+        },
+        {
+            "DOI": "10.1016/j.agrformet.2013.01.001",
+            "URL": "http://dx.doi.org/10.1016/j.agrformet.2013.01.001",
+            "author": [
+                {
+                    "family": "Thomas",
+                    "given": "Christoph K."
+                },
+                {
+                    "family": "Martin",
+                    "given": "Jonathan G."
+                },
+                {
+                    "family": "Law",
+                    "given": "Beverly E."
+                },
+                {
+                    "family": "Davis",
+                    "given": "Kent"
+                }
+            ],
+            "container-title": "Agricultural and Forest Meteorology",
+            "id": "thomas2013",
+            "issued": {
+                "date-parts": [
+                    [
+                        2013,
+                        5
+                    ]
+                ]
+            },
+            "language": "en",
+            "page": "14-27",
+            "title": "Toward biologically meaningful net carbon exchange estimates for tall, dense canopies: Multi-level eddy covariance observations and canopy coupling regimes in a mature Douglas-fir forest in Oregon",
+            "title-short": "Toward biologically meaningful net carbon exchange estimates for tall, dense canopies",
+            "type": "article-journal",
+            "volume": "173"
+        },
+        {
+            "author": [
+                {
+                    "family": "Finnigan",
+                    "given": "JJ"
+                },
+                {
+                    "family": "Raupach",
+                    "given": "MR"
+                },
+                {
+                    "literal": "others"
+                }
+            ],
+            "container-title": "Stomatal function",
+            "id": "finnigan1987",
+            "issued": {
+                "date-parts": [
+                    [
+                        1987
+                    ]
+                ]
+            },
+            "page": "385-429",
+            "publisher": "Stanford Univ. Press",
+            "title": "Transfer processes in plant canopies in relation to stomatal characteristics.",
+            "type": "article-journal"
+        },
+        {
+            "author": [
+                {
+                    "family": "Antonia",
+                    "given": "RA"
+                }
+            ],
+            "container-title": "Annual review of fluid mechanics",
+            "id": "antonia1981",
+            "issue": "1",
+            "issued": {
+                "date-parts": [
+                    [
+                        1981
+                    ]
+                ]
+            },
+            "page": "131-156",
+            "publisher": "Annual Reviews 4139 El Camino Way, PO Box 10139, Palo Alto, CA 94303-0139, USA",
+            "title": "Conditional sampling in turbulence measurement",
+            "type": "article-journal",
+            "volume": "13"
+        },
+        {
+            "author": [
+                {
+                    "family": "Raupach",
+                    "given": "MRt"
+                },
+                {
+                    "family": "Thom",
+                    "given": "A St"
+                }
+            ],
+            "container-title": "Annual Review of Fluid Mechanics",
+            "id": "raupach1981",
+            "issue": "1",
+            "issued": {
+                "date-parts": [
+                    [
+                        1981
+                    ]
+                ]
+            },
+            "page": "97-129",
+            "publisher": "Annual Reviews 4139 El Camino Way, PO Box 10139, Palo Alto, CA 94303-0139, USA",
+            "title": "Turbulence in and above plant canopies",
+            "type": "article-journal",
+            "volume": "13"
+        },
+        {
+            "author": [
+                {
+                    "family": "Daubechies",
+                    "given": "I."
+                }
+            ],
+            "id": "daubechies1993",
+            "issued": {
+                "date-parts": [
+                    [
+                        1992
+                    ]
+                ]
+            },
+            "publisher": "Society for Industrial; Applied Mathematics.",
+            "publisher-place": "Philadelphia, PA.",
+            "title": "Ten lectures on wavelets.",
+            "type": "book",
+            "volume": "CBMS-NSF Regional Conference Series in Applied Mathematics 61"
+        },
+        {
+            "author": [
+                {
+                    "family": "Farge",
+                    "given": "Marie"
+                }
+            ],
+            "container-title": "Annual review of fluid mechanics",
+            "id": "farge1992",
+            "issue": "1",
+            "issued": {
+                "date-parts": [
+                    [
+                        1992
+                    ]
+                ]
+            },
+            "page": "395-458",
+            "publisher": "Annual reviews 4139 El Camino Way, PO Box 10139, Palo Alto, CA 94303-0139, USA",
+            "title": "Wavelet transforms and their applications to turbulence",
+            "type": "article-journal",
+            "volume": "24"
+        },
+        {
+            "author": [
+                {
+                    "family": "Stull",
+                    "given": "Roland B"
+                }
+            ],
+            "id": "stull1988",
+            "issued": {
+                "date-parts": [
+                    [
+                        1988
+                    ]
+                ]
+            },
+            "publisher": "Springer Science & Business Media",
+            "title": "An introduction to boundary layer meteorology",
+            "type": "book",
+            "volume": "13"
+        },
+        {
+            "author": [
+                {
+                    "family": "Kaimal",
+                    "given": "Jagadish Chandran"
+                },
+                {
+                    "family": "Finnigan",
+                    "given": "John J"
+                }
+            ],
+            "id": "kaimal1994",
+            "issued": {
+                "date-parts": [
+                    [
+                        1994
+                    ]
+                ]
+            },
+            "publisher": "Oxford university press",
+            "title": "Atmospheric boundary layer flows: Their structure and measurement",
+            "title-short": "Atmospheric boundary layer flows",
+            "type": "book"
+        },
+        {
+            "author": [
+                {
+                    "family": "Crowther",
+                    "given": "Thomas W"
+                },
+                {
+                    "family": "Glick",
+                    "given": "Henry B"
+                },
+                {
+                    "family": "Covey",
+                    "given": "Kristofer R"
+                },
+                {
+                    "family": "Bettigole",
+                    "given": "Charlie"
+                },
+                {
+                    "family": "Maynard",
+                    "given": "Daniel S"
+                },
+                {
+                    "family": "Thomas",
+                    "given": "Stephen M"
+                },
+                {
+                    "family": "Smith",
+                    "given": "Jeffrey R"
+                },
+                {
+                    "family": "Hintler",
+                    "given": "Gregor"
+                },
+                {
+                    "family": "Duguid",
+                    "given": "Marlyse C"
+                },
+                {
+                    "family": "Amatulli",
+                    "given": "Giuseppe"
+                },
+                {
+                    "literal": "others"
+                }
+            ],
+            "container-title": "Nature",
+            "id": "crowther2015",
+            "issue": "7568",
+            "issued": {
+                "date-parts": [
+                    [
+                        2015
+                    ]
+                ]
+            },
+            "page": "201-205",
+            "publisher": "Nature Publishing Group",
+            "title": "Mapping tree density at a global scale",
+            "type": "article-journal",
+            "volume": "525"
+        },
+        {
+            "author": [
+                {
+                    "family": "Monin",
+                    "given": "Andreí Sergeevich"
+                },
+                {
+                    "family": "Obukhov",
+                    "given": "Aleksandr Mikhaílovich"
+                }
+            ],
+            "container-title": "Contrib. Geophys. Inst. Acad. Sci. USSR",
+            "id": "monin1954",
+            "issue": "163",
+            "issued": {
+                "date-parts": [
+                    [
+                        1954
+                    ]
+                ]
+            },
+            "page": "e187",
+            "title": "Basic laws of turbulent mixing in the surface layer of the atmosphere",
+            "type": "article-journal",
+            "volume": "151"
+        },
+        {
+            "author": [
+                {
+                    "family": "Mortarini",
+                    "given": "L."
+                },
+                {
+                    "family": "Katul",
+                    "given": "G."
+                },
+                {
+                    "family": "Cava",
+                    "given": "D."
+                },
+                {
+                    "family": "Dias-Júnior",
+                    "given": "C. Q."
+                },
+                {
+                    "family": "Diaz",
+                    "given": "N."
+                },
+                {
+                    "family": "Chamecki",
+                    "given": "M."
+                }
+            ],
+            "id": "mortarini2023",
+            "issued": {
+                "date-parts": [
+                    [
+                        2023
+                    ]
+                ]
+            },
+            "title": "Adjustments to the law-of-the wall above an amazon forest explained by a spectral link",
+            "type": "article-journal"
+        },
+        {
+            "author": [
+                {
+                    "family": "Dupont",
+                    "given": "Sylvain"
+                },
+                {
+                    "family": "Patton",
+                    "given": "Edward G"
+                }
+            ],
+            "container-title": "Boundary-Layer Meteorology",
+            "id": "dupont2022",
+            "issued": {
+                "date-parts": [
+                    [
+                        2022
+                    ]
+                ]
+            },
+            "page": "1-36",
+            "publisher": "Springer",
+            "title": "On the influence of large-scale atmospheric motions on near-surface turbulence: Comparison between flows over low-roughness and tall vegetation canopies",
+            "title-short": "On the influence of large-scale atmospheric motions on near-surface turbulence",
+            "type": "article-journal"
+        },
+        {
+            "DOI": "10.1017/CBO9780511840531",
+            "author": [
+                {
+                    "family": "Pope",
+                    "given": "Stephen B."
+                }
+            ],
+            "id": "pope2000",
+            "issued": {
+                "date-parts": [
+                    [
+                        2000
+                    ]
+                ]
+            },
+            "publisher": "Cambridge University Press",
+            "title": "Turbulent flows",
+            "type": "book"
+        },
+        {
+            "author": [
+                {
+                    "family": "Kolmogorov",
+                    "given": "A. N."
+                }
+            ],
+            "container-title": "Dokl. Akad. Nauk SSSR",
+            "id": "kolmogorov1941",
+            "issue": "4",
+            "issued": {
+                "date-parts": [
+                    [
+                        1941
+                    ]
+                ]
+            },
+            "page": "299-301",
+            "title": "Local structure of turbulence in incompressible viscous fluid for very large reynolds number",
+            "type": "article-journal",
+            "volume": "30"
+        },
+        {
+            "author": [
+                {
+                    "family": "Stull",
+                    "given": "Ronald B"
+                }
+            ],
+            "id": "stull2015",
+            "issued": {
+                "date-parts": [
+                    [
+                        2015
+                    ]
+                ]
+            },
+            "publisher": "University of British Columbia",
+            "title": "Practical meteorology: An algebra-based survey of atmospheric science",
+            "title-short": "Practical meteorology",
+            "type": "book"
+        },
+        {
+            "URL": "https://psl.noaa.gov/events/2015/review/pdf/presentations/psd-review-theme2a-grachev.pdf",
+            "author": [
+                {
+                    "family": "Grachev",
+                    "given": "Andrey A."
+                }
+            ],
+            "id": "grachev2022",
+            "issued": {
+                "date-parts": [
+                    [
+                        2022
+                    ]
+                ]
+            },
+            "note": "Last accessed 16 September 2022",
+            "title": "Stable boundary layers",
+            "type": ""
+        },
+        {
+            "author": [
+                {
+                    "family": "Marcolla",
+                    "given": "BARBARA"
+                },
+                {
+                    "family": "Pitacco",
+                    "given": "A"
+                },
+                {
+                    "family": "Cescatti",
+                    "given": "A"
+                }
+            ],
+            "container-title": "Boundary-layer meteorology",
+            "id": "marcolla2003",
+            "issue": "1",
+            "issued": {
+                "date-parts": [
+                    [
+                        2003
+                    ]
+                ]
+            },
+            "page": "39-59",
+            "publisher": "Springer",
+            "title": "Canopy architecture and turbulence structure in a coniferous forest",
+            "type": "article-journal",
+            "volume": "108"
+        },
+        {
+            "DOI": "10.1007/bf00122339",
+            "URL": "http://dx.doi.org/10.1007/bf00122339",
+            "author": [
+                {
+                    "family": "Gao",
+                    "given": "W."
+                },
+                {
+                    "family": "Shaw",
+                    "given": "R. H."
+                },
+                {
+                    "family": "Paw U",
+                    "given": "K. T."
+                }
+            ],
+            "container-title": "Boundary-Layer Meteorology",
+            "id": "gao1989",
+            "issue": "1-4",
+            "issued": {
+                "date-parts": [
+                    [
+                        1989,
+                        4
+                    ]
+                ]
+            },
+            "language": "en",
+            "page": "349-377",
+            "title": "Observation of organized structure in turbulent flow within and above a forest canopy",
+            "type": "article-journal",
+            "volume": "47"
+        },
+        {
+            "DOI": "10.1002/2017jg003988",
+            "URL": "http://dx.doi.org/10.1002/2017JG003988",
+            "author": [
+                {
+                    "family": "Jocher",
+                    "given": "Georg"
+                },
+                {
+                    "family": "Marshall",
+                    "given": "John"
+                },
+                {
+                    "family": "Nilsson",
+                    "given": "Mats B."
+                },
+                {
+                    "family": "Linder",
+                    "given": "Sune"
+                },
+                {
+                    "family": "De Simon",
+                    "given": "Giuseppe"
+                },
+                {
+                    "family": "Hörnlund",
+                    "given": "Thomas"
+                },
+                {
+                    "family": "Lundmark",
+                    "given": "Tomas"
+                },
+                {
+                    "family": "Näsholm",
+                    "given": "Torgny"
+                },
+                {
+                    "family": "Ottosson Löfvenius",
+                    "given": "Mikaell"
+                },
+                {
+                    "family": "Tarvainen",
+                    "given": "Lasse"
+                },
+                {
+                    "family": "Wallin",
+                    "given": "Göran"
+                },
+                {
+                    "family": "Peichl",
+                    "given": "Matthias"
+                }
+            ],
+            "container-title": "Journal of Geophysical Research: Biogeosciences",
+            "id": "jocher2018",
+            "issue": "2",
+            "issued": {
+                "date-parts": [
+                    [
+                        2018,
+                        2
+                    ]
+                ]
+            },
+            "language": "en",
+            "page": "303-325",
+            "title": "Impact of Canopy Decoupling and Subcanopy Advection on the Annual Carbon Balance of a Boreal Scots Pine Forest as Derived From Eddy Covariance",
+            "type": "article-journal",
+            "volume": "123"
+        },
+        {
+            "DOI": "10.1111/gcb.15892",
+            "URL": "http://dx.doi.org/10.1111/gcb.15892",
+            "author": [
+                {
+                    "family": "Haesen",
+                    "given": "Stef"
+                },
+                {
+                    "family": "Lembrechts",
+                    "given": "Jonas J."
+                },
+                {
+                    "family": "De Frenne",
+                    "given": "Pieter"
+                },
+                {
+                    "family": "Lenoir",
+                    "given": "Jonathan"
+                },
+                {
+                    "family": "Aalto",
+                    "given": "Juha"
+                },
+                {
+                    "family": "Ashcroft",
+                    "given": "Michael B."
+                },
+                {
+                    "family": "Kopecký",
+                    "given": "Martin"
+                },
+                {
+                    "family": "Luoto",
+                    "given": "Miska"
+                },
+                {
+                    "family": "Maclean",
+                    "given": "Ilya"
+                },
+                {
+                    "family": "Nijs",
+                    "given": "Ivan"
+                },
+                {
+                    "family": "Niittynen",
+                    "given": "Pekka"
+                },
+                {
+                    "family": "Hoogen",
+                    "given": "Johan"
+                },
+                {
+                    "family": "Arriga",
+                    "given": "Nicola"
+                },
+                {
+                    "family": "Brůna",
+                    "given": "Josef"
+                },
+                {
+                    "family": "Buchmann",
+                    "given": "Nina"
+                },
+                {
+                    "family": "Čiliak",
+                    "given": "Marek"
+                },
+                {
+                    "family": "Collalti",
+                    "given": "Alessio"
+                },
+                {
+                    "family": "De Lombaerde",
+                    "given": "Emiel"
+                },
+                {
+                    "family": "Descombes",
+                    "given": "Patrice"
+                },
+                {
+                    "family": "Gharun",
+                    "given": "Mana"
+                },
+                {
+                    "family": "Goded",
+                    "given": "Ignacio"
+                },
+                {
+                    "family": "Govaert",
+                    "given": "Sanne"
+                },
+                {
+                    "family": "Greiser",
+                    "given": "Caroline"
+                },
+                {
+                    "family": "Grelle",
+                    "given": "Achim"
+                },
+                {
+                    "family": "Gruening",
+                    "given": "Carsten"
+                },
+                {
+                    "family": "Hederová",
+                    "given": "Lucia"
+                },
+                {
+                    "family": "Hylander",
+                    "given": "Kristoffer"
+                },
+                {
+                    "family": "Kreyling",
+                    "given": "Jürgen"
+                },
+                {
+                    "family": "Kruijt",
+                    "given": "Bart"
+                },
+                {
+                    "family": "Macek",
+                    "given": "Martin"
+                },
+                {
+                    "family": "Máliš",
+                    "given": "František"
+                },
+                {
+                    "family": "Man",
+                    "given": "Matěj"
+                },
+                {
+                    "family": "Manca",
+                    "given": "Giovanni"
+                },
+                {
+                    "family": "Matula",
+                    "given": "Radim"
+                },
+                {
+                    "family": "Meeussen",
+                    "given": "Camille"
+                },
+                {
+                    "family": "Merinero",
+                    "given": "Sonia"
+                },
+                {
+                    "family": "Minerbi",
+                    "given": "Stefano"
+                },
+                {
+                    "family": "Montagnani",
+                    "given": "Leonardo"
+                },
+                {
+                    "family": "Muffler",
+                    "given": "Lena"
+                },
+                {
+                    "family": "Ogaya",
+                    "given": "Romà"
+                },
+                {
+                    "family": "Penuelas",
+                    "given": "Josep"
+                },
+                {
+                    "family": "Plichta",
+                    "given": "Roman"
+                },
+                {
+                    "family": "Portillo-Estrada",
+                    "given": "Miguel"
+                },
+                {
+                    "family": "Schmeddes",
+                    "given": "Jonas"
+                },
+                {
+                    "family": "Shekhar",
+                    "given": "Ankit"
+                },
+                {
+                    "family": "Spicher",
+                    "given": "Fabien"
+                },
+                {
+                    "family": "Ujházyová",
+                    "given": "Mariana"
+                },
+                {
+                    "family": "Vangansbeke",
+                    "given": "Pieter"
+                },
+                {
+                    "family": "Weigel",
+                    "given": "Robert"
+                },
+                {
+                    "family": "Wild",
+                    "given": "Jan"
+                },
+                {
+                    "family": "Zellweger",
+                    "given": "Florian"
+                },
+                {
+                    "family": "Van Meerbeek",
+                    "given": "Koenraad"
+                }
+            ],
+            "container-title": "Global Change Biology",
+            "id": "haesen2021",
+            "issue": "23",
+            "issued": {
+                "date-parts": [
+                    [
+                        2021,
+                        10,
+                        3
+                    ]
+                ]
+            },
+            "language": "en",
+            "page": "6307-6319",
+            "title": "ForestTemp  Sub-canopy microclimate temperatures of European forests",
+            "type": "article-journal",
+            "volume": "27"
+        },
+        {
+            "DOI": "10.1016/j.agrformet.2020.108149",
+            "URL": "http://dx.doi.org/10.1016/j.agrformet.2020.108149",
+            "author": [
+                {
+                    "family": "Jocher",
+                    "given": "Georg"
+                },
+                {
+                    "family": "Fischer",
+                    "given": "Milan"
+                },
+                {
+                    "family": "Šigut",
+                    "given": "Ladislav"
+                },
+                {
+                    "family": "Pavelka",
+                    "given": "Marian"
+                },
+                {
+                    "family": "Sedlák",
+                    "given": "Pavel"
+                },
+                {
+                    "family": "Katul",
+                    "given": "Gabriel"
+                }
+            ],
+            "container-title": "Agricultural and Forest Meteorology",
+            "id": "jocher2020",
+            "issued": {
+                "date-parts": [
+                    [
+                        2020,
+                        11
+                    ]
+                ]
+            },
+            "language": "en",
+            "page": "108149",
+            "title": "Assessing decoupling of above and below canopy air masses at a Norway spruce stand in complex terrain",
+            "type": "article-journal",
+            "volume": "294"
+        },
+        {
+            "DOI": "10.5194/bg-17-6423-2020",
+            "URL": "http://dx.doi.org/10.5194/bg-17-6423-2020",
+            "author": [
+                {
+                    "family": "Schilperoort",
+                    "given": "Bart"
+                },
+                {
+                    "family": "Coenders-Gerrits",
+                    "given": "Miriam"
+                },
+                {
+                    "family": "Jiménez Rodríguez",
+                    "given": "César"
+                },
+                {
+                    "dropping-particle": "van der",
+                    "family": "Tol",
+                    "given": "Christiaan"
+                },
+                {
+                    "dropping-particle": "van de",
+                    "family": "Wiel",
+                    "given": "Bas"
+                },
+                {
+                    "family": "Savenije",
+                    "given": "Hubert"
+                }
+            ],
+            "container-title": "Biogeosciences",
+            "id": "schilperoort2020",
+            "issue": "24",
+            "issued": {
+                "date-parts": [
+                    [
+                        2020,
+                        12,
+                        21
+                    ]
+                ]
+            },
+            "language": "en",
+            "page": "6423-6439",
+            "title": "Decoupling of a Douglas fir canopy: a look into the subcanopy with continuous vertical temperature profiles",
+            "title-short": "Decoupling of a Douglas fir canopy",
+            "type": "article-journal",
+            "volume": "17"
+        },
+        {
+            "DOI": "10.1016/j.agrformet.2022.108960",
+            "URL": "http://dx.doi.org/10.1016/j.agrformet.2022.108960",
+            "author": [
+                {
+                    "family": "Schilperoort",
+                    "given": "Bart"
+                },
+                {
+                    "family": "Coenders-Gerrits",
+                    "given": "Miriam"
+                },
+                {
+                    "family": "Rodríguez",
+                    "given": "César Jiménez"
+                },
+                {
+                    "dropping-particle": "van",
+                    "family": "Hooft",
+                    "given": "Antoon"
+                },
+                {
+                    "dropping-particle": "van de",
+                    "family": "Wiel",
+                    "given": "Bas"
+                },
+                {
+                    "family": "Savenije",
+                    "given": "Hubert"
+                }
+            ],
+            "container-title": "Agricultural and Forest Meteorology",
+            "id": "schilperoort2022",
+            "issued": {
+                "date-parts": [
+                    [
+                        2022,
+                        6
+                    ]
+                ]
+            },
+            "language": "en",
+            "page": "108960",
+            "title": "Detecting nighttime inversions in the interior of a Douglas fir canopy",
+            "type": "article-journal",
+            "volume": "321"
+        },
+        {
+            "DOI": "10.1016/j.agrformet.2022.108983",
+            "URL": "http://dx.doi.org/10.1016/j.agrformet.2022.108983",
+            "author": [
+                {
+                    "family": "Cava",
+                    "given": "Daniela"
+                },
+                {
+                    "family": "Dias-Júnior",
+                    "given": "Cléo Q."
+                },
+                {
+                    "family": "Acevedo",
+                    "given": "Otávio"
+                },
+                {
+                    "family": "Oliveira",
+                    "given": "Pablo E. S."
+                },
+                {
+                    "family": "Tsokankunku",
+                    "given": "Anywhere"
+                },
+                {
+                    "family": "Sörgel",
+                    "given": "Matthias"
+                },
+                {
+                    "family": "Manzi",
+                    "given": "Antônio Ocimar"
+                },
+                {
+                    "family": "Araújo",
+                    "given": "Alessandro C.",
+                    "non-dropping-particle": "de"
+                },
+                {
+                    "family": "Brondani",
+                    "given": "Daiane V."
+                },
+                {
+                    "family": "Toro",
+                    "given": "Ivan Mauricio Cely"
+                },
+                {
+                    "family": "Mortarini",
+                    "given": "Luca"
+                }
+            ],
+            "container-title": "Agricultural and Forest Meteorology",
+            "id": "cava2022",
+            "issued": {
+                "date-parts": [
+                    [
+                        2022,
+                        7
+                    ]
+                ]
+            },
+            "language": "en",
+            "page": "108983",
+            "title": "Vertical propagation of submeso and coherent structure in a tall and dense Amazon Forest in different stability conditions PART I: Flow structure within and above the roughness sublayer",
+            "title-short": "Vertical propagation of submeso and coherent structure in a tall and dense Amazon Forest in different stability conditions PART I",
+            "type": "article-journal",
+            "volume": "322"
+        },
+        {
+            "DOI": "10.1016/j.agrformet.2022.108993",
+            "URL": "http://dx.doi.org/10.1016/j.agrformet.2022.108993",
+            "author": [
+                {
+                    "family": "Mortarini",
+                    "given": "Luca"
+                },
+                {
+                    "family": "Dias-Júnior",
+                    "given": "Cléo Q."
+                },
+                {
+                    "family": "Acevedo",
+                    "given": "Otávio"
+                },
+                {
+                    "family": "Oliveira",
+                    "given": "Pablo E. S."
+                },
+                {
+                    "family": "Tsokankunku",
+                    "given": "Anywhere"
+                },
+                {
+                    "family": "Sörgel",
+                    "given": "Matthias"
+                },
+                {
+                    "family": "Manzi",
+                    "given": "Antônio Ocimar"
+                },
+                {
+                    "family": "Araújo",
+                    "given": "Alessandro C.",
+                    "non-dropping-particle": "de"
+                },
+                {
+                    "family": "Brondani",
+                    "given": "Daiane V."
+                },
+                {
+                    "family": "Toro",
+                    "given": "Ivan Mauricio Cely"
+                },
+                {
+                    "family": "Giostra",
+                    "given": "Umberto"
+                },
+                {
+                    "family": "Cava",
+                    "given": "Daniela"
+                }
+            ],
+            "container-title": "Agricultural and Forest Meteorology",
+            "id": "mortarini2022",
+            "issued": {
+                "date-parts": [
+                    [
+                        2022,
+                        7
+                    ]
+                ]
+            },
+            "language": "en",
+            "page": "108993",
+            "title": "Vertical propagation of submeso and coherent structure in a tall and dense amazon forest in different stability conditions. PART II: Coherent structures analysis",
+            "title-short": "Vertical propagation of submeso and coherent structure in a tall and dense amazon forest in different stability conditions. PART II",
+            "type": "article-journal",
+            "volume": "322"
+        },
+        {
+            "DOI": "10.1016/0168-1923(92)90025-y",
+            "URL": "http://dx.doi.org/10.1016/0168-1923(92)90025-Y",
+            "author": [
+                {
+                    "family": "Paw-U",
+                    "given": "Kyaw Tha"
+                },
+                {
+                    "family": "Brunet",
+                    "given": "Yves"
+                },
+                {
+                    "family": "Collineau",
+                    "given": "Serge"
+                },
+                {
+                    "family": "Shaw",
+                    "given": "Roger H."
+                },
+                {
+                    "family": "Maitani",
+                    "given": "Toshihiko"
+                },
+                {
+                    "family": "Qiu",
+                    "given": "Jie"
+                },
+                {
+                    "family": "Hipps",
+                    "given": "Lawrence"
+                }
+            ],
+            "container-title": "Agricultural and Forest Meteorology",
+            "id": "pawu1992",
+            "issue": "1-2",
+            "issued": {
+                "date-parts": [
+                    [
+                        1992,
+                        9
+                    ]
+                ]
+            },
+            "language": "en",
+            "page": "55-68",
+            "title": "On coherent structures in turbulence above and within agricultural plant canopies",
+            "type": "article-journal",
+            "volume": "61"
+        },
+        {
+            "DOI": "10.1023/a:1000338817250",
+            "URL": "http://dx.doi.org/10.1023/A:1000338817250",
+            "author": [
+                {
+                    "family": "Chen",
+                    "given": "Wenjun"
+                },
+                {
+                    "family": "Novak",
+                    "given": "Michael D."
+                },
+                {
+                    "family": "Black",
+                    "given": "T. Andrew"
+                },
+                {
+                    "family": "Lee",
+                    "given": "Xuhui"
+                }
+            ],
+            "container-title": "Boundary-Layer Meteorology",
+            "id": "chen1997",
+            "issue": "1",
+            "issued": {
+                "date-parts": [
+                    [
+                        1997,
+                        7
+                    ]
+                ]
+            },
+            "language": "en",
+            "page": "99-124",
+            "title": "Coherent eddies and temperature structure functions for three contrasting surfaces. Part I: Ramp model with finite microfront time",
+            "title-short": "Coherent eddies and temperature structure functions for three contrasting surfaces. Part I",
+            "type": "article-journal",
+            "volume": "84"
+        },
+        {
+            "DOI": "10.1016/j.agrformet.2012.01.011",
+            "URL": "http://dx.doi.org/10.1016/j.agrformet.2012.01.011",
+            "author": [
+                {
+                    "family": "Dupont",
+                    "given": "S."
+                },
+                {
+                    "family": "Patton",
+                    "given": "E. G."
+                }
+            ],
+            "container-title": "Agricultural and Forest Meteorology",
+            "id": "dupont2012a",
+            "issued": {
+                "date-parts": [
+                    [
+                        2012,
+                        5
+                    ]
+                ]
+            },
+            "language": "en",
+            "page": "11-29",
+            "title": "Influence of stability and seasonal canopy changes on micrometeorology within and above an orchard canopy: The CHATS experiment",
+            "title-short": "Influence of stability and seasonal canopy changes on micrometeorology within and above an orchard canopy",
+            "type": "article-journal",
+            "volume": "157"
+        },
+        {
+            "DOI": "10.5194/acp-12-5913-2012",
+            "URL": "http://dx.doi.org/10.5194/acp-12-5913-2012",
+            "author": [
+                {
+                    "family": "Dupont",
+                    "given": "S."
+                },
+                {
+                    "family": "Patton",
+                    "given": "E. G."
+                }
+            ],
+            "container-title": "Atmospheric Chemistry and Physics",
+            "id": "dupont2012b",
+            "issue": "13",
+            "issued": {
+                "date-parts": [
+                    [
+                        2012,
+                        7,
+                        12
+                    ]
+                ]
+            },
+            "language": "en",
+            "page": "5913-5935",
+            "title": "Momentum and scalar transport within a vegetation canopy following atmospheric stability and seasonal canopy changes: the CHATS experiment",
+            "title-short": "Momentum and scalar transport within a vegetation canopy following atmospheric stability and seasonal canopy changes",
+            "type": "article-journal",
+            "volume": "12"
+        },
+        {
+            "DOI": "10.1023/a:1001108411184",
+            "URL": "http://dx.doi.org/10.1023/A:1001108411184",
+            "author": [
+                {
+                    "family": "Su",
+                    "given": "Hong-Bing"
+                },
+                {
+                    "family": "Shaw",
+                    "given": "Roger H."
+                },
+                {
+                    "family": "Paw",
+                    "given": "Kyaw Tha"
+                },
+                {
+                    "family": "Moeng",
+                    "given": "Chin-Hoh"
+                },
+                {
+                    "family": "Sullivan",
+                    "given": "Peter P."
+                }
+            ],
+            "container-title": "Boundary-Layer Meteorology",
+            "id": "su1998",
+            "issue": "3",
+            "issued": {
+                "date-parts": [
+                    [
+                        1998,
+                        9
+                    ]
+                ]
+            },
+            "language": "en",
+            "page": "363-397",
+            "title": "Turbulent Statistics of Neutrally Stratified Flow Within and Above a Sparse Forest from Large-Eddy Simulation and Field Observations",
+            "type": "article-journal",
+            "volume": "88"
+        },
+        {
+            "DOI": "10.1007/s10546-006-9054-8",
+            "URL": "http://dx.doi.org/10.1007/s10546-006-9054-8",
+            "author": [
+                {
+                    "family": "Foster",
+                    "given": "Ralph C."
+                },
+                {
+                    "family": "Vianey",
+                    "given": "Francois"
+                },
+                {
+                    "family": "Drobinski",
+                    "given": "Philippe"
+                },
+                {
+                    "family": "Carlotti",
+                    "given": "Pierre"
+                }
+            ],
+            "container-title": "Boundary-Layer Meteorology",
+            "id": "foster2006",
+            "issue": "2",
+            "issued": {
+                "date-parts": [
+                    [
+                        2006,
+                        4,
+                        19
+                    ]
+                ]
+            },
+            "language": "en",
+            "page": "229-255",
+            "title": "Near-Surface Coherent Structures and The Vertical Momentum Flux in a Large-Eddy Simulation of the Neutrally-Stratified Boundary Layer",
+            "type": "article-journal",
+            "volume": "120"
+        },
+        {
+            "DOI": "10.1017/s0022112009990589",
+            "URL": "http://dx.doi.org/10.1017/S0022112009990589",
+            "author": [
+                {
+                    "family": "Finnigan",
+                    "given": "John J."
+                },
+                {
+                    "family": "Shaw",
+                    "given": "Roger H."
+                },
+                {
+                    "family": "Patton",
+                    "given": "Edward G."
+                }
+            ],
+            "container-title": "Journal of Fluid Mechanics",
+            "id": "finnigan2009",
+            "issued": {
+                "date-parts": [
+                    [
+                        2009,
+                        10,
+                        7
+                    ]
+                ]
+            },
+            "language": "en",
+            "page": "387-424",
+            "title": "Turbulence structure above a vegetation canopy",
+            "type": "article-journal",
+            "volume": "637"
+        },
+        {
+            "DOI": "10.1016/j.jweia.2016.05.002",
+            "URL": "http://dx.doi.org/10.1016/j.jweia.2016.05.002",
+            "author": [
+                {
+                    "family": "Liu",
+                    "given": "Zhenqing"
+                },
+                {
+                    "family": "Ishihara",
+                    "given": "Takeshi"
+                },
+                {
+                    "family": "He",
+                    "given": "Xuhui"
+                },
+                {
+                    "family": "Niu",
+                    "given": "Huawei"
+                }
+            ],
+            "container-title": "Journal of Wind Engineering and Industrial Aerodynamics",
+            "id": "liu2016",
+            "issued": {
+                "date-parts": [
+                    [
+                        2016,
+                        8
+                    ]
+                ]
+            },
+            "language": "en",
+            "page": "60-73",
+            "title": "LES study on the turbulent flow fields over complex terrain covered by vegetation canopy",
+            "type": "article-journal",
+            "volume": "155"
+        },
+        {
+            "DOI": "10.3390/atmos12121631",
+            "URL": "http://dx.doi.org/10.3390/atmos12121631",
+            "author": [
+                {
+                    "family": "Serra-Neto",
+                    "given": "Edivaldo M."
+                },
+                {
+                    "family": "Martins",
+                    "given": "Hardiney S."
+                },
+                {
+                    "family": "Dias-Júnior",
+                    "given": "Cléo Q."
+                },
+                {
+                    "family": "Santana",
+                    "given": "Raoni A."
+                },
+                {
+                    "family": "Brondani",
+                    "given": "Daiane V."
+                },
+                {
+                    "family": "Manzi",
+                    "given": "Antônio O."
+                },
+                {
+                    "family": "Araújo",
+                    "given": "Alessandro C.",
+                    "non-dropping-particle": "de"
+                },
+                {
+                    "family": "Teixeira",
+                    "given": "Paulo R."
+                },
+                {
+                    "family": "Sörgel",
+                    "given": "Matthias"
+                },
+                {
+                    "family": "Mortarini",
+                    "given": "Luca"
+                }
+            ],
+            "container-title": "Atmosphere",
+            "id": "serra-neto2021",
+            "issue": "12",
+            "issued": {
+                "date-parts": [
+                    [
+                        2021,
+                        12,
+                        7
+                    ]
+                ]
+            },
+            "language": "en",
+            "page": "1631",
+            "title": "Simulation of the Scalar Transport above and within the Amazon Forest Canopy",
+            "type": "article-journal",
+            "volume": "12"
+        },
+        {
+            "DOI": "10.1115/1.2345370",
+            "URL": "http://dx.doi.org/10.1115/1.2345370",
+            "author": [
+                {
+                    "family": "Alfonsi",
+                    "given": "Giancarlo"
+                }
+            ],
+            "container-title": "Applied Mechanics Reviews",
+            "id": "alfonsi2006",
+            "issue": "6",
+            "issued": {
+                "date-parts": [
+                    [
+                        2006,
+                        11,
+                        1
+                    ]
+                ]
+            },
+            "language": "en",
+            "page": "307-323",
+            "title": "Coherent Structures of Turbulence: Methods of Eduction and Results",
+            "title-short": "Coherent Structures of Turbulence",
+            "type": "article-journal",
+            "volume": "59"
+        },
+        {
+            "DOI": "10.1007/bf00120941",
+            "URL": "http://dx.doi.org/10.1007/BF00120941",
+            "author": [
+                {
+                    "family": "Raupach",
+                    "given": "M. R."
+                },
+                {
+                    "family": "Finnigan",
+                    "given": "J. J."
+                },
+                {
+                    "family": "Brunei",
+                    "given": "Y."
+                }
+            ],
+            "container-title": "Boundary-Layer Meteorology",
+            "id": "raupach1996",
+            "issue": "3-4",
+            "issued": {
+                "date-parts": [
+                    [
+                        1996,
+                        3
+                    ]
+                ]
+            },
+            "language": "en",
+            "page": "351-382",
+            "title": "Coherent eddies and turbulence in vegetation canopies: The mixing-layer analogy",
+            "title-short": "Coherent eddies and turbulence in vegetation canopies",
+            "type": "article-journal",
+            "volume": "78"
+        },
+        {
+            "DOI": "10.1146/annurev.fl.23.010191.003125",
+            "URL": "http://dx.doi.org/10.1146/annurev.fl.23.010191.003125",
+            "author": [
+                {
+                    "family": "Robinson",
+                    "given": "S K"
+                }
+            ],
+            "container-title": "Annual Review of Fluid Mechanics",
+            "id": "robinson1991",
+            "issue": "1",
+            "issued": {
+                "date-parts": [
+                    [
+                        1991,
+                        1
+                    ]
+                ]
+            },
+            "language": "en",
+            "page": "601-639",
+            "title": "Coherent Motions in the Turbulent Boundary Layer",
+            "type": "article-journal",
+            "volume": "23"
+        },
+        {
+            "DOI": "10.1007/s10546-011-9619-z",
+            "URL": "http://dx.doi.org/10.1007/s10546-011-9619-z",
+            "author": [
+                {
+                    "family": "Serafimovich",
+                    "given": "Andrei"
+                },
+                {
+                    "family": "Thomas",
+                    "given": "Christoph"
+                },
+                {
+                    "family": "Foken",
+                    "given": "Thomas"
+                }
+            ],
+            "container-title": "Boundary-Layer Meteorology",
+            "id": "serafimovich2011",
+            "issue": "3",
+            "issued": {
+                "date-parts": [
+                    [
+                        2011,
+                        5,
+                        12
+                    ]
+                ]
+            },
+            "language": "en",
+            "page": "429-451",
+            "title": "Vertical and Horizontal Transport of Energy and Matter by Coherent Motions in a Tall Spruce Canopy",
+            "type": "article-journal",
+            "volume": "140"
+        },
+        {
+            "DOI": "10.1063/1.864048",
+            "URL": "http://dx.doi.org/10.1063/1.864048",
+            "author": [
+                {
+                    "family": "Hussain",
+                    "given": "A. K. M. F."
+                }
+            ],
+            "container-title": "Physics of Fluids",
+            "id": "hussain1983",
+            "issue": "10",
+            "issued": {
+                "date-parts": [
+                    [
+                        1983
+                    ]
+                ]
+            },
+            "language": "en",
+            "page": "2816",
+            "title": "Coherent structuresreality and myth",
+            "type": "article-journal",
+            "volume": "26"
+        },
+        {
+            "DOI": "10.1146/annurev.fluid.32.1.519",
+            "URL": "http://dx.doi.org/10.1146/annurev.fluid.32.1.519",
+            "author": [
+                {
+                    "family": "Finnigan",
+                    "given": "John"
+                }
+            ],
+            "container-title": "Annual Review of Fluid Mechanics",
+            "id": "finnigan2000",
+            "issue": "1",
+            "issued": {
+                "date-parts": [
+                    [
+                        2000,
+                        1
+                    ]
+                ]
+            },
+            "language": "en",
+            "page": "519-571",
+            "title": "Turbulence in Plant Canopies",
+            "type": "article-journal",
+            "volume": "32"
+        },
+        {
+            "DOI": "10.1007/s10546-007-9190-9",
+            "URL": "http://dx.doi.org/10.1007/s10546-007-9190-9",
+            "author": [
+                {
+                    "family": "Barthlott",
+                    "given": "Christian"
+                },
+                {
+                    "family": "Drobinski",
+                    "given": "Philippe"
+                },
+                {
+                    "family": "Fesquet",
+                    "given": "Clément"
+                },
+                {
+                    "family": "Dubos",
+                    "given": "Thomas"
+                },
+                {
+                    "family": "Pietras",
+                    "given": "Christophe"
+                }
+            ],
+            "container-title": "Boundary-Layer Meteorology",
+            "id": "barthlott2007",
+            "issue": "1",
+            "issued": {
+                "date-parts": [
+                    [
+                        2007,
+                        7,
+                        7
+                    ]
+                ]
+            },
+            "language": "en",
+            "page": "1-24",
+            "title": "Long-term study of coherent structures in the atmospheric surface layer",
+            "type": "article-journal",
+            "volume": "125"
+        },
+        {
+            "DOI": "10.1007/bf00117300",
+            "URL": "http://dx.doi.org/10.1007/BF00117300",
+            "author": [
+                {
+                    "family": "Raupach",
+                    "given": "M. R."
+                },
+                {
+                    "family": "Coppin",
+                    "given": "P. A."
+                },
+                {
+                    "family": "Legg",
+                    "given": "B. J."
+                }
+            ],
+            "container-title": "Boundary-Layer Meteorology",
+            "id": "raupach1986",
+            "issue": "1-2",
+            "issued": {
+                "date-parts": [
+                    [
+                        1986,
+                        4
+                    ]
+                ]
+            },
+            "language": "en",
+            "page": "21-52",
+            "title": "Experiments on scalar dispersion within a model plant canopy part I: The turbulence structure",
+            "title-short": "Experiments on scalar dispersion within a model plant canopy part I",
+            "type": "article-journal",
+            "volume": "35"
+        },
+        {
+            "DOI": "10.1023/a:1000301303543",
+            "URL": "http://dx.doi.org/10.1023/A:1000301303543",
+            "author": [
+                {
+                    "family": "Dwyer",
+                    "given": "Michael J."
+                },
+                {
+                    "family": "Patton",
+                    "given": "Edward G."
+                },
+                {
+                    "family": "Shaw",
+                    "given": "Roger H."
+                }
+            ],
+            "container-title": "Boundary-Layer Meteorology",
+            "id": "dwyer1997",
+            "issue": "1",
+            "issued": {
+                "date-parts": [
+                    [
+                        1997,
+                        7
+                    ]
+                ]
+            },
+            "language": "en",
+            "page": "23-43",
+            "title": "Turbulent kinetic energy budgets from a large-eddy simulation of airflow above and within a forest canopy",
+            "type": "article-journal",
+            "volume": "84"
+        },
+        {
+            "DOI": "10.1007/s10546-006-9087-z",
+            "URL": "http://dx.doi.org/10.1007/s10546-006-9087-z",
+            "author": [
+                {
+                    "family": "Thomas",
+                    "given": "Christoph"
+                },
+                {
+                    "family": "Foken",
+                    "given": "Thomas"
+                }
+            ],
+            "container-title": "Boundary-Layer Meteorology",
+            "id": "thomas2006",
+            "issue": "1",
+            "issued": {
+                "date-parts": [
+                    [
+                        2006,
+                        7,
+                        21
+                    ]
+                ]
+            },
+            "language": "en",
+            "page": "123-147",
+            "title": "Organised Motion in a Tall Spruce Canopy: Temporal Scales, Structure Spacing and Terrain Effects",
+            "title-short": "Organised Motion in a Tall Spruce Canopy",
+            "type": "article-journal",
+            "volume": "122"
+        },
+        {
+            "DOI": "10.1002/9781118527221",
+            "URL": "http://dx.doi.org/10.1002/9781118527221",
+            "editor": [
+                {
+                    "family": "Venditti",
+                    "given": "Jeremy G."
+                },
+                {
+                    "family": "Best",
+                    "given": "James L."
+                },
+                {
+                    "family": "Church",
+                    "given": "Michael"
+                },
+                {
+                    "family": "Hardy",
+                    "given": "Richard J."
+                }
+            ],
+            "id": "coherent2013",
+            "issued": {
+                "date-parts": [
+                    [
+                        2013,
+                        10,
+                        11
+                    ]
+                ]
+            },
+            "publisher": "John Wiley & Sons, Ltd",
+            "title": "Coherent flow structures at earth’s surface",
+            "type": "book"
+        },
+        {
+            "DOI": "https://doi.org/10.1002/9781118527221.ch6",
+            "ISBN": "9781118527221",
+            "URL": "https://onlinelibrary.wiley.com/doi/abs/10.1002/9781118527221.ch6",
+            "abstract": "Summary The exchange of scalars between the biosphere and the atmosphere has direct bearing on a large number of problems such as climate change, air and water quality, agricultural management and food security, landscape ecology, and decision making for environmental compliances and policy formulation. Near the canopy-atmosphere interface, turbulent fluctuations in scalar concentrations exhibit complex dynamic behaviour that shows some parallels with the transporting turbulent velocity field. However, the statistical properties of scalar turbulence within and just above the canopy can also be partly decoupled from those of the transporting velocity. Here, a unifying framework is proposed that accounts for vertical variations in scalar sources and sinks within the canopy volume, the lack of equilibrium between production and dissipation terms in second-order scalar budget equations, the rapid changes in turbulent kinetic energy dissipation rate inside canopies, the relative importance of ejections and sweeps, the role of thermal stratification, and the “near-field” effects of the scalar source on gradient-diffusion theories. Ways in which these same phenomena modify the scalar spectra and scalar-vertical velocity co-spectra within the inertial subrange above the canopy and at scales finer than the wake generation region within the canopy are presented. Finally, the origin of organized eddy structure connected with surface renewal that leads to scalar ramps is briefly discussed. The work draws upon a large number of flume, wind tunnel, and field experiments, and offers novel theoretical scaling arguments as to how coherency in the flow field impacts scalar spectra and scalar-velocity co-spectra at scales smaller than the shear production scales.",
+            "author": [
+                {
+                    "family": "Katul",
+                    "given": "Gabriel G."
+                },
+                {
+                    "family": "Cava",
+                    "given": "Daniela"
+                },
+                {
+                    "family": "Siqueira",
+                    "given": "Mario"
+                },
+                {
+                    "family": "Poggi",
+                    "given": "Davide"
+                }
+            ],
+            "chapter-number": "6",
+            "container-title": "Coherent flow structures at earth’s surface",
+            "id": "katul2013",
+            "issued": {
+                "date-parts": [
+                    [
+                        2013
+                    ]
+                ]
+            },
+            "keyword": "scalars, canopy-atmosphere interface, turbulence, ejections, sweeps, thermal stratification, near-field effects",
+            "page": "73-95",
+            "publisher": "John Wiley & Sons, Ltd",
+            "title": "Scalar turbulence within the canopy sublayer",
+            "type": "chapter"
+        },
+        {
+            "author": [
+                {
+                    "family": "Bergström",
+                    "given": "Hans"
+                },
+                {
+                    "family": "Högström",
+                    "given": "Ulf"
+                }
+            ],
+            "container-title": "Boundary-Layer Meteorology",
+            "id": "bergstrom1989",
+            "issue": "3",
+            "issued": {
+                "date-parts": [
+                    [
+                        1989
+                    ]
+                ]
+            },
+            "page": "231-263",
+            "publisher": "Springer",
+            "title": "Turbulent exchange above a pine forest II. Organized structures",
+            "type": "article-journal",
+            "volume": "49"
+        },
+        {
+            "author": [
+                {
+                    "family": "Raupach",
+                    "given": "MR"
+                }
+            ],
+            "container-title": "Boundary-Layer Meteorology",
+            "id": "raupach1979",
+            "issue": "3",
+            "issued": {
+                "date-parts": [
+                    [
+                        1979
+                    ]
+                ]
+            },
+            "page": "467-486",
+            "publisher": "Springer",
+            "title": "Anomalies in flux-gradient relationships over forest",
+            "type": "article-journal",
+            "volume": "16"
+        },
+        {
+            "author": [
+                {
+                    "family": "Baldocchi",
+                    "given": "Dennis D"
+                },
+                {
+                    "family": "Meyers",
+                    "given": "Tilden P"
+                }
+            ],
+            "container-title": "Boundary-Layer Meteorology",
+            "id": "baldocchi1988",
+            "issue": "4",
+            "issued": {
+                "date-parts": [
+                    [
+                        1988
+                    ]
+                ]
+            },
+            "page": "345-364",
+            "publisher": "Springer",
+            "title": "Turbulence structure in a deciduous forest",
+            "type": "article-journal",
+            "volume": "43"
+        },
+        {
+            "author": [
+                {
+                    "family": "Bosveld",
+                    "given": "Fred C"
+                },
+                {
+                    "family": "Holtslag",
+                    "given": "AAM"
+                },
+                {
+                    "family": "Van Den Hurk",
+                    "given": "BJJM"
+                }
+            ],
+            "container-title": "Boundary-Layer Meteorology",
+            "id": "bosveld1999",
+            "issue": "2",
+            "issued": {
+                "date-parts": [
+                    [
+                        1999
+                    ]
+                ]
+            },
+            "page": "171-195",
+            "publisher": "Springer",
+            "title": "Nighttime convection in the interior of a dense douglas fir forest",
+            "type": "article-journal",
+            "volume": "93"
+        },
+        {
+            "DOI": "10.1007/s10546-006-9145-6",
+            "URL": "http://dx.doi.org/10.1007/s10546-006-9145-6",
+            "author": [
+                {
+                    "family": "Harman",
+                    "given": "Ian N."
+                },
+                {
+                    "family": "Finnigan",
+                    "given": "John J."
+                }
+            ],
+            "container-title": "Boundary-Layer Meteorology",
+            "id": "harman2007",
+            "issue": "2",
+            "issued": {
+                "date-parts": [
+                    [
+                        2007,
+                        3,
+                        1
+                    ]
+                ]
+            },
+            "language": "en",
+            "page": "339-363",
+            "title": "A simple unified theory for flow in the canopy and roughness sublayer",
+            "type": "article-journal",
+            "volume": "123"
+        },
+        {
+            "DOI": "10.1007/s10546-008-9328-4",
+            "URL": "http://dx.doi.org/10.1007/s10546-008-9328-4",
+            "author": [
+                {
+                    "family": "Harman",
+                    "given": "Ian N."
+                },
+                {
+                    "family": "Finnigan",
+                    "given": "John J."
+                }
+            ],
+            "container-title": "Boundary-Layer Meteorology",
+            "id": "harman2008",
+            "issue": "3",
+            "issued": {
+                "date-parts": [
+                    [
+                        2008,
+                        10,
+                        30
+                    ]
+                ]
+            },
+            "language": "en",
+            "page": "323-351",
+            "title": "Scalar Concentration Profiles in the Canopy and Roughness Sublayer",
+            "type": "article-journal",
+            "volume": "129"
+        },
+        {
+            "DOI": "10.1007/s10546-020-00560-7",
+            "URL": "http://dx.doi.org/10.1007/s10546-020-00560-7",
+            "author": [
+                {
+                    "family": "Brunet",
+                    "given": "Yves"
+                }
+            ],
+            "container-title": "Boundary-Layer Meteorology",
+            "id": "brunet2020",
+            "issue": "2-3",
+            "issued": {
+                "date-parts": [
+                    [
+                        2020,
+                        9,
+                        25
+                    ]
+                ]
+            },
+            "language": "en",
+            "page": "315-364",
+            "title": "Turbulent Flow in Plant Canopies: Historical Perspective and Overview",
+            "title-short": "Turbulent Flow in Plant Canopies",
+            "type": "article-journal",
+            "volume": "177"
+        },
+        {
+            "DOI": "10.1007/bf00709238",
+            "URL": "http://dx.doi.org/10.1007/BF00709238",
+            "author": [
+                {
+                    "family": "Shaw",
+                    "given": "R. H."
+                },
+                {
+                    "family": "Brunet",
+                    "given": "Y."
+                },
+                {
+                    "family": "Finnigan",
+                    "given": "J. J."
+                },
+                {
+                    "family": "Raupach",
+                    "given": "M. R."
+                }
+            ],
+            "container-title": "Boundary-Layer Meteorology",
+            "id": "shaw1995",
+            "issue": "4",
+            "issued": {
+                "date-parts": [
+                    [
+                        1995,
+                        12
+                    ]
+                ]
+            },
+            "language": "en",
+            "page": "349-376",
+            "title": "A wind tunnel study of air flow in waving wheat: Two-point velocity statistics",
+            "title-short": "A wind tunnel study of air flow in waving wheat",
+            "type": "article-journal",
+            "volume": "76"
+        },
+        {
+            "DOI": "10.1023/a:1002406616227",
+            "URL": "http://dx.doi.org/10.1023/A:1002406616227",
+            "author": [
+                {
+                    "family": "Brunet",
+                    "given": "Y."
+                },
+                {
+                    "family": "Irvine",
+                    "given": "M. R."
+                }
+            ],
+            "container-title": "Boundary-Layer Meteorology",
+            "id": "brunet2000",
+            "issue": "1",
+            "issued": {
+                "date-parts": [
+                    [
+                        2000,
+                        1
+                    ]
+                ]
+            },
+            "language": "en",
+            "page": "139-163",
+            "title": "The Control Of Coherent Eddies In Vegetation Canopies: Streamwise Structure Spacing, Canopy Shear Scale And Atmospheric Stability",
+            "title-short": "The Control Of Coherent Eddies In Vegetation Canopies",
+            "type": "article-journal",
+            "volume": "94"
+        },
+        {
+            "DOI": "10.1175/jas-d-15-0068.1",
+            "URL": "http://dx.doi.org/10.1175/JAS-D-15-0068.1",
+            "author": [
+                {
+                    "family": "Patton",
+                    "given": "Edward G."
+                },
+                {
+                    "family": "Sullivan",
+                    "given": "Peter P."
+                },
+                {
+                    "family": "Shaw",
+                    "given": "Roger H."
+                },
+                {
+                    "family": "Finnigan",
+                    "given": "John J."
+                },
+                {
+                    "family": "Weil",
+                    "given": "Jeffrey C."
+                }
+            ],
+            "container-title": "Journal of the Atmospheric Sciences",
+            "id": "patton2016",
+            "issue": "4",
+            "issued": {
+                "date-parts": [
+                    [
+                        2016,
+                        3,
+                        3
+                    ]
+                ]
+            },
+            "language": "en",
+            "page": "1621-1647",
+            "title": "Atmospheric Stability Influences on Coupled Boundary Layer and Canopy Turbulence",
+            "type": "article-journal",
+            "volume": "73"
+        },
+        {
+            "DOI": "10.1016/j.jweia.2012.12.019",
+            "URL": "http://dx.doi.org/10.1016/j.jweia.2012.12.019",
+            "author": [
+                {
+                    "family": "Dias-Júnior",
+                    "given": "C. Q."
+                },
+                {
+                    "family": "Sá",
+                    "given": "L. D. A."
+                },
+                {
+                    "family": "Pachêco",
+                    "given": "V. B."
+                },
+                {
+                    "dropping-particle": "de",
+                    "family": "Souza",
+                    "given": "C. M."
+                }
+            ],
+            "container-title": "Journal of Wind Engineering and Industrial Aerodynamics",
+            "id": "diasjunior2013",
+            "issued": {
+                "date-parts": [
+                    [
+                        2013,
+                        4
+                    ]
+                ]
+            },
+            "language": "en",
+            "page": "1-8",
+            "title": "Coherent structures detected in the unstable atmospheric surface layer above the Amazon forest",
+            "type": "article-journal",
+            "volume": "115"
+        },
+        {
+            "DOI": "10.1111/j.1600-0889.2007.00313.x",
+            "URL": "http://dx.doi.org/10.1111/j.1600-0889.2007.00313.x",
+            "author": [
+                {
+                    "family": "Launiainen",
+                    "given": "Samuli"
+                },
+                {
+                    "family": "Veasal",
+                    "given": "Timo"
+                },
+                {
+                    "family": "Mölder",
+                    "given": "Meelis"
+                },
+                {
+                    "family": "Mammarella",
+                    "given": "Ivan"
+                },
+                {
+                    "family": "Smolander",
+                    "given": "Sampo"
+                },
+                {
+                    "family": "Rannik",
+                    "given": "Üllar"
+                },
+                {
+                    "family": "Kolari",
+                    "given": "Pasi"
+                },
+                {
+                    "family": "Hari",
+                    "given": "Pertti"
+                },
+                {
+                    "family": "Lindroth",
+                    "given": "Anders"
+                },
+                {
+                    "family": "Katul",
+                    "given": "Gabriel G."
+                }
+            ],
+            "container-title": "Tellus B: Chemical and Physical Meteorology",
+            "id": "launiainen2007",
+            "issue": "5",
+            "issued": {
+                "date-parts": [
+                    [
+                        2007,
+                        1
+                    ]
+                ]
+            },
+            "language": "en",
+            "page": "919-936",
+            "title": "Vertical variability and effect of stability on turbulence characteristics down to the floor of a pine forest",
+            "type": "article-journal",
+            "volume": "59"
+        },
+        {
+            "DOI": "10.1002/qj.49712454904",
+            "URL": "http://dx.doi.org/10.1002/qj.49712454904",
+            "author": [
+                {
+                    "family": "Lee",
+                    "given": "Xuhui"
+                },
+                {
+                    "family": "Barr",
+                    "given": "Alan G."
+                }
+            ],
+            "container-title": "Quarterly Journal of the Royal Meteorological Society",
+            "id": "lee1998",
+            "issue": "549",
+            "issued": {
+                "date-parts": [
+                    [
+                        1998,
+                        7
+                    ]
+                ]
+            },
+            "language": "en",
+            "page": "1403-1419",
+            "title": "Climatology of gravity waves in a forest",
+            "type": "article-journal",
+            "volume": "124"
+        },
+        {
+            "DOI": "10.1023/b:boun.0000020160.28184.a0",
+            "URL": "http://dx.doi.org/10.1023/B:BOUN.0000020160.28184.a0",
+            "author": [
+                {
+                    "family": "Cava",
+                    "given": "D."
+                },
+                {
+                    "family": "Giostra",
+                    "given": "U."
+                },
+                {
+                    "family": "Siqueira",
+                    "given": "M."
+                },
+                {
+                    "family": "Katul",
+                    "given": "G."
+                }
+            ],
+            "container-title": "Boundary-Layer Meteorology",
+            "id": "cava2004",
+            "issue": "1",
+            "issued": {
+                "date-parts": [
+                    [
+                        2004,
+                        7
+                    ]
+                ]
+            },
+            "language": "en",
+            "page": "129-157",
+            "title": "Organised Motion and Radiative Perturbations in the Nocturnal Canopy Sublayer above an Even-Aged Pine Forest",
+            "type": "article-journal",
+            "volume": "112"
+        },
+        {
+            "DOI": "10.1007/s10546-005-9038-0",
+            "URL": "http://dx.doi.org/10.1007/s10546-005-9038-0",
+            "author": [
+                {
+                    "family": "Thomas",
+                    "given": "Christoph"
+                },
+                {
+                    "family": "Mayer",
+                    "given": "Jens-Christopher"
+                },
+                {
+                    "family": "Meixner",
+                    "given": "Franz X."
+                },
+                {
+                    "family": "Foken",
+                    "given": "Thomas"
+                }
+            ],
+            "container-title": "Boundary-Layer Meteorology",
+            "id": "thomas2006a",
+            "issue": "3",
+            "issued": {
+                "date-parts": [
+                    [
+                        2006,
+                        1,
+                        24
+                    ]
+                ]
+            },
+            "language": "en",
+            "page": "563-587",
+            "title": "Analysis of Low-Frequency Turbulence Above Tall Vegetation Using a Doppler Sodar",
+            "type": "article-journal",
+            "volume": "119"
+        },
+        {
+            "DOI": "10.1023/a:1024118808670",
+            "URL": "http://dx.doi.org/10.1023/A:1024118808670",
+            "author": [
+                {
+                    "family": "Villani",
+                    "given": "M. G."
+                },
+                {
+                    "family": "Schmid",
+                    "given": "H. P."
+                },
+                {
+                    "family": "Su",
+                    "given": "H.-B."
+                },
+                {
+                    "family": "Hutton",
+                    "given": "J. L."
+                },
+                {
+                    "family": "Vogel",
+                    "given": "C. S."
+                }
+            ],
+            "container-title": "Boundary-Layer Meteorology",
+            "id": "villani2003",
+            "issue": "3",
+            "issued": {
+                "date-parts": [
+                    [
+                        2003,
+                        9
+                    ]
+                ]
+            },
+            "language": "en",
+            "page": "343-364",
+            "title": "Turbulence Statistics Measurements in a Northern Hardwood Forest",
+            "type": "article-journal",
+            "volume": "108"
+        },
+        {
+            "DOI": "10.1007/s10546-016-0158-5",
+            "URL": "http://dx.doi.org/10.1007/s10546-016-0158-5",
+            "author": [
+                {
+                    "family": "Santos",
+                    "given": "Daniel M."
+                },
+                {
+                    "family": "Acevedo",
+                    "given": "Otávio C."
+                },
+                {
+                    "family": "Chamecki",
+                    "given": "Marcelo"
+                },
+                {
+                    "family": "Fuentes",
+                    "given": "José D."
+                },
+                {
+                    "family": "Gerken",
+                    "given": "Tobias"
+                },
+                {
+                    "family": "Stoy",
+                    "given": "Paul C."
+                }
+            ],
+            "container-title": "Boundary-Layer Meteorology",
+            "id": "santos2016",
+            "issue": "1",
+            "issued": {
+                "date-parts": [
+                    [
+                        2016,
+                        4,
+                        21
+                    ]
+                ]
+            },
+            "language": "en",
+            "page": "73-98",
+            "title": "Temporal Scales of the Nocturnal Flow Within and Above a Forest Canopy in Amazonia",
+            "type": "article-journal",
+            "volume": "161"
+        },
+        {
+            "DOI": "10.5194/acp-18-3083-2018",
+            "URL": "http://dx.doi.org/10.5194/acp-18-3083-2018",
+            "author": [
+                {
+                    "family": "Oliveira",
+                    "given": "Pablo E. S."
+                },
+                {
+                    "family": "Acevedo",
+                    "given": "Otávio C."
+                },
+                {
+                    "family": "Sörgel",
+                    "given": "Matthias"
+                },
+                {
+                    "family": "Tsokankunku",
+                    "given": "Anywhere"
+                },
+                {
+                    "family": "Wolff",
+                    "given": "Stefan"
+                },
+                {
+                    "family": "Araújo",
+                    "given": "Alessandro C."
+                },
+                {
+                    "family": "Souza",
+                    "given": "Rodrigo A. F."
+                },
+                {
+                    "family": "Sá",
+                    "given": "Marta O."
+                },
+                {
+                    "family": "Manzi",
+                    "given": "Antônio O."
+                },
+                {
+                    "family": "Andreae",
+                    "given": "Meinrat O."
+                }
+            ],
+            "container-title": "Atmospheric Chemistry and Physics",
+            "id": "oliveira2018",
+            "issue": "5",
+            "issued": {
+                "date-parts": [
+                    [
+                        2018,
+                        3,
+                        5
+                    ]
+                ]
+            },
+            "language": "en",
+            "page": "3083-3099",
+            "title": "Nighttime wind and scalar variability within and above an Amazonian canopy",
+            "type": "article-journal",
+            "volume": "18"
+        },
+        {
+            "DOI": "10.1007/s00704-004-0093-0",
+            "URL": "http://dx.doi.org/10.1007/s00704-004-0093-0",
+            "author": [
+                {
+                    "family": "Thomas",
+                    "given": "Chr."
+                },
+                {
+                    "family": "Foken",
+                    "given": "Th."
+                }
+            ],
+            "container-title": "Theoretical and Applied Climatology",
+            "id": "thomas2004",
+            "issue": "2-4",
+            "issued": {
+                "date-parts": [
+                    [
+                        2004,
+                        12,
+                        15
+                    ]
+                ]
+            },
+            "language": "en",
+            "page": "91-104",
+            "title": "Detection of long-term coherent exchange over spruce forest using wavelet analysis",
+            "type": "article-journal",
+            "volume": "80"
+        },
+        {
+            "DOI": "10.1007/bf00707033",
+            "URL": "http://dx.doi.org/10.1007/BF00707033",
+            "author": [
+                {
+                    "family": "Collineau",
+                    "given": "Serge"
+                },
+                {
+                    "family": "Brunet",
+                    "given": "Yves"
+                }
+            ],
+            "container-title": "Boundary-Layer Meteorology",
+            "id": "collineau1993",
+            "issue": "4",
+            "issued": {
+                "date-parts": [
+                    [
+                        1993,
+                        9
+                    ]
+                ]
+            },
+            "language": "en",
+            "page": "357-379",
+            "title": "Detection of turbulent coherent motions in a forest canopy part I: Wavelet analysis",
+            "title-short": "Detection of turbulent coherent motions in a forest canopy part I",
+            "type": "article-journal",
+            "volume": "65"
+        },
+        {
+            "DOI": "10.1007/bf00705459",
+            "URL": "http://dx.doi.org/10.1007/BF00705459",
+            "author": [
+                {
+                    "family": "Collineau",
+                    "given": "Serge"
+                },
+                {
+                    "family": "Brunet",
+                    "given": "Yves"
+                }
+            ],
+            "container-title": "Boundary-Layer Meteorology",
+            "id": "collineau1993a",
+            "issue": "1-2",
+            "issued": {
+                "date-parts": [
+                    [
+                        1993,
+                        10
+                    ]
+                ]
+            },
+            "language": "en",
+            "page": "49-73",
+            "title": "Detection of turbulent coherent motions in a forest canopy part II: Time-scales and conditional averages",
+            "title-short": "Detection of turbulent coherent motions in a forest canopy part II",
+            "type": "article-journal",
+            "volume": "66"
+        },
+        {
+            "DOI": "10.1007/s00704-004-0111-2",
+            "URL": "http://dx.doi.org/10.1007/s00704-004-0111-2",
+            "author": [
+                {
+                    "family": "Feigenwinter",
+                    "given": "C."
+                },
+                {
+                    "family": "Vogt",
+                    "given": "R."
+                }
+            ],
+            "container-title": "Theoretical and Applied Climatology",
+            "id": "feigenwinter2005",
+            "issue": "3-4",
+            "issued": {
+                "date-parts": [
+                    [
+                        2005,
+                        2,
+                        16
+                    ]
+                ]
+            },
+            "language": "en",
+            "page": "219-230",
+            "title": "Detection and analysis of coherent structures in urban turbulence",
+            "type": "article-journal",
+            "volume": "81"
+        },
+        {
+            "author": [
+                {
+                    "family": "Anfossi",
+                    "given": "D"
+                },
+                {
+                    "family": "Öttl",
+                    "given": "Dietmar"
+                },
+                {
+                    "family": "Degrazia",
+                    "given": "G"
+                },
+                {
+                    "family": "Goulart",
+                    "given": "lA"
+                }
+            ],
+            "container-title": "Boundary-Layer Meteorology",
+            "id": "anfossi2005",
+            "issue": "1",
+            "issued": {
+                "date-parts": [
+                    [
+                        2005
+                    ]
+                ]
+            },
+            "page": "179-203",
+            "publisher": "Springer",
+            "title": "An analysis of sonic anemometer observations in low wind speed conditions",
+            "type": "article-journal",
+            "volume": "114"
+        },
+        {
+            "author": [
+                {
+                    "family": "Mortarini",
+                    "given": "L."
+                },
+                {
+                    "family": "Katul",
+                    "given": "G."
+                },
+                {
+                    "family": "Dias-Júnior",
+                    "given": "C. Q."
+                },
+                {
+                    "family": "Diaz",
+                    "given": "N."
+                },
+                {
+                    "family": "Cava",
+                    "given": "D."
+                }
+            ],
+            "id": "mortarini23",
+            "issued": {
+                "date-parts": [
+                    [
+                        2023
+                    ]
+                ]
+            },
+            "title": "Adjustments to the law-of-the wall above an amazon forest explained by a spectral link adjustments to the law-of-the wall above an amazon forest explained by a spectral link",
+            "type": "article-journal"
+        },
+        {
+            "DOI": "10.1175/JAS-D-18-0280.1",
+            "author": [
+                {
+                    "family": "Mortarini",
+                    "given": "L."
+                },
+                {
+                    "family": "Cava",
+                    "given": "D."
+                },
+                {
+                    "family": "Giostra",
+                    "given": "U."
+                },
+                {
+                    "family": "Costa",
+                    "given": "F. Denardin"
+                },
+                {
+                    "family": "Degrazia",
+                    "given": "G."
+                },
+                {
+                    "family": "Anfossi",
+                    "given": "D."
+                },
+                {
+                    "family": "Acevedo",
+                    "given": "O."
+                }
+            ],
+            "container-title": "Journal of the Atmospheric Sciences",
+            "id": "mortarini2019",
+            "issue": "10",
+            "issued": {
+                "date-parts": [
+                    [
+                        2019
+                    ]
+                ]
+            },
+            "page": "3029 - 3046",
+            "publisher": "American Meteorological Society",
+            "publisher-place": "Boston MA, USA",
+            "title": "Horizontal meandering as a distinctive feature of the stable boundary layer",
+            "type": "article-journal",
+            "volume": "76"
+        },
+        {
+            "DOI": "10.1007/s10546-008-9342-6",
+            "URL": "http://dx.doi.org/10.1007/s10546-008-9342-6",
+            "author": [
+                {
+                    "family": "Cava",
+                    "given": "D."
+                },
+                {
+                    "family": "Katul",
+                    "given": "G. G."
+                }
+            ],
+            "container-title": "Boundary-Layer Meteorology",
+            "id": "cava2009",
+            "issue": "3",
+            "issued": {
+                "date-parts": [
+                    [
+                        2009,
+                        2,
+                        4
+                    ]
+                ]
+            },
+            "language": "en",
+            "page": "307-325",
+            "title": "The Effects of Thermal Stratification on Clustering Properties of Canopy Turbulence",
+            "type": "article-journal",
+            "volume": "130"
+        },
+        {
+            "DOI": "10.1111/j.1365-2486.1996.tb00070.x",
+            "URL": "http://dx.doi.org/10.1111/j.1365-2486.1996.tb00070.x",
+            "author": [
+                {
+                    "family": "GOULDEN",
+                    "given": "MICHAEL L."
+                },
+                {
+                    "family": "MUNGER",
+                    "given": "J. WILLIAM"
+                },
+                {
+                    "family": "FAN",
+                    "given": "SONG-MIAO"
+                },
+                {
+                    "family": "DAUBE",
+                    "given": "BRUCE C."
+                },
+                {
+                    "family": "WOFSY",
+                    "given": "STEVEN C."
+                }
+            ],
+            "container-title": "Global Change Biology",
+            "id": "goulden1996",
+            "issue": "3",
+            "issued": {
+                "date-parts": [
+                    [
+                        1996,
+                        6
+                    ]
+                ]
+            },
+            "language": "en",
+            "page": "169-182",
+            "title": "Measurements of carbon sequestration by long-term eddy covariance: methods and a critical evaluation of accuracy",
+            "title-short": "Measurements of carbon sequestration by long-term eddy covariance",
+            "type": "article-journal",
+            "volume": "2"
+        },
+        {
+            "DOI": "10.5194/bg-3-571-2006",
+            "URL": "http://dx.doi.org/10.5194/bg-3-571-2006",
+            "author": [
+                {
+                    "family": "Papale",
+                    "given": "D."
+                },
+                {
+                    "family": "Reichstein",
+                    "given": "M."
+                },
+                {
+                    "family": "Aubinet",
+                    "given": "M."
+                },
+                {
+                    "family": "Canfora",
+                    "given": "E."
+                },
+                {
+                    "family": "Bernhofer",
+                    "given": "C."
+                },
+                {
+                    "family": "Kutsch",
+                    "given": "W."
+                },
+                {
+                    "family": "Longdoz",
+                    "given": "B."
+                },
+                {
+                    "family": "Rambal",
+                    "given": "S."
+                },
+                {
+                    "family": "Valentini",
+                    "given": "R."
+                },
+                {
+                    "family": "Vesala",
+                    "given": "T."
+                },
+                {
+                    "family": "Yakir",
+                    "given": "D."
+                }
+            ],
+            "container-title": "Biogeosciences",
+            "id": "papale2006",
+            "issue": "4",
+            "issued": {
+                "date-parts": [
+                    [
+                        2006,
+                        11,
+                        27
+                    ]
+                ]
+            },
+            "language": "en",
+            "page": "571-583",
+            "title": "Towards a standardized processing of Net Ecosystem Exchange measured with eddy covariance technique: algorithms and uncertainty estimation",
+            "title-short": "Towards a standardized processing of Net Ecosystem Exchange measured with eddy covariance technique",
+            "type": "article-journal",
+            "volume": "3"
+        },
+        {
+            "DOI": "10.1016/j.agrformet.2013.01.001",
+            "URL": "http://dx.doi.org/10.1016/j.agrformet.2013.01.001",
+            "author": [
+                {
+                    "family": "Thomas",
+                    "given": "Christoph K."
+                },
+                {
+                    "family": "Martin",
+                    "given": "Jonathan G."
+                },
+                {
+                    "family": "Law",
+                    "given": "Beverly E."
+                },
+                {
+                    "family": "Davis",
+                    "given": "Kent"
+                }
+            ],
+            "container-title": "Agricultural and Forest Meteorology",
+            "id": "thomas2013",
+            "issued": {
+                "date-parts": [
+                    [
+                        2013,
+                        5
+                    ]
+                ]
+            },
+            "language": "en",
+            "page": "14-27",
+            "title": "Toward biologically meaningful net carbon exchange estimates for tall, dense canopies: Multi-level eddy covariance observations and canopy coupling regimes in a mature Douglas-fir forest in Oregon",
+            "title-short": "Toward biologically meaningful net carbon exchange estimates for tall, dense canopies",
+            "type": "article-journal",
+            "volume": "173"
+        },
+        {
+            "author": [
+                {
+                    "family": "Finnigan",
+                    "given": "JJ"
+                },
+                {
+                    "family": "Raupach",
+                    "given": "MR"
+                },
+                {
+                    "literal": "others"
+                }
+            ],
+            "container-title": "Stomatal function",
+            "id": "finnigan1987",
+            "issued": {
+                "date-parts": [
+                    [
+                        1987
+                    ]
+                ]
+            },
+            "page": "385-429",
+            "publisher": "Stanford Univ. Press",
+            "title": "Transfer processes in plant canopies in relation to stomatal characteristics.",
+            "type": "article-journal"
+        },
+        {
+            "author": [
+                {
+                    "family": "Antonia",
+                    "given": "RA"
+                }
+            ],
+            "container-title": "Annual review of fluid mechanics",
+            "id": "antonia1981",
+            "issue": "1",
+            "issued": {
+                "date-parts": [
+                    [
+                        1981
+                    ]
+                ]
+            },
+            "page": "131-156",
+            "publisher": "Annual Reviews 4139 El Camino Way, PO Box 10139, Palo Alto, CA 94303-0139, USA",
+            "title": "Conditional sampling in turbulence measurement",
+            "type": "article-journal",
+            "volume": "13"
+        },
+        {
+            "author": [
+                {
+                    "family": "Raupach",
+                    "given": "MRt"
+                },
+                {
+                    "family": "Thom",
+                    "given": "A St"
+                }
+            ],
+            "container-title": "Annual Review of Fluid Mechanics",
+            "id": "raupach1981",
+            "issue": "1",
+            "issued": {
+                "date-parts": [
+                    [
+                        1981
+                    ]
+                ]
+            },
+            "page": "97-129",
+            "publisher": "Annual Reviews 4139 El Camino Way, PO Box 10139, Palo Alto, CA 94303-0139, USA",
+            "title": "Turbulence in and above plant canopies",
+            "type": "article-journal",
+            "volume": "13"
+        },
+        {
+            "author": [
+                {
+                    "family": "Daubechies",
+                    "given": "I."
+                }
+            ],
+            "id": "daubechies1993",
+            "issued": {
+                "date-parts": [
+                    [
+                        1992
+                    ]
+                ]
+            },
+            "publisher": "Society for Industrial; Applied Mathematics.",
+            "publisher-place": "Philadelphia, PA.",
+            "title": "Ten lectures on wavelets.",
+            "type": "book",
+            "volume": "CBMS-NSF Regional Conference Series in Applied Mathematics 61"
+        },
+        {
+            "author": [
+                {
+                    "family": "Farge",
+                    "given": "Marie"
+                }
+            ],
+            "container-title": "Annual review of fluid mechanics",
+            "id": "farge1992",
+            "issue": "1",
+            "issued": {
+                "date-parts": [
+                    [
+                        1992
+                    ]
+                ]
+            },
+            "page": "395-458",
+            "publisher": "Annual reviews 4139 El Camino Way, PO Box 10139, Palo Alto, CA 94303-0139, USA",
+            "title": "Wavelet transforms and their applications to turbulence",
+            "type": "article-journal",
+            "volume": "24"
+        },
+        {
+            "author": [
+                {
+                    "family": "Stull",
+                    "given": "Roland B"
+                }
+            ],
+            "id": "stull1988",
+            "issued": {
+                "date-parts": [
+                    [
+                        1988
+                    ]
+                ]
+            },
+            "publisher": "Springer Science & Business Media",
+            "title": "An introduction to boundary layer meteorology",
+            "type": "book",
+            "volume": "13"
+        },
+        {
+            "author": [
+                {
+                    "family": "Kaimal",
+                    "given": "Jagadish Chandran"
+                },
+                {
+                    "family": "Finnigan",
+                    "given": "John J"
+                }
+            ],
+            "id": "kaimal1994",
+            "issued": {
+                "date-parts": [
+                    [
+                        1994
+                    ]
+                ]
+            },
+            "publisher": "Oxford university press",
+            "title": "Atmospheric boundary layer flows: Their structure and measurement",
+            "title-short": "Atmospheric boundary layer flows",
+            "type": "book"
+        },
+        {
+            "author": [
+                {
+                    "family": "Crowther",
+                    "given": "Thomas W"
+                },
+                {
+                    "family": "Glick",
+                    "given": "Henry B"
+                },
+                {
+                    "family": "Covey",
+                    "given": "Kristofer R"
+                },
+                {
+                    "family": "Bettigole",
+                    "given": "Charlie"
+                },
+                {
+                    "family": "Maynard",
+                    "given": "Daniel S"
+                },
+                {
+                    "family": "Thomas",
+                    "given": "Stephen M"
+                },
+                {
+                    "family": "Smith",
+                    "given": "Jeffrey R"
+                },
+                {
+                    "family": "Hintler",
+                    "given": "Gregor"
+                },
+                {
+                    "family": "Duguid",
+                    "given": "Marlyse C"
+                },
+                {
+                    "family": "Amatulli",
+                    "given": "Giuseppe"
+                },
+                {
+                    "literal": "others"
+                }
+            ],
+            "container-title": "Nature",
+            "id": "crowther2015",
+            "issue": "7568",
+            "issued": {
+                "date-parts": [
+                    [
+                        2015
+                    ]
+                ]
+            },
+            "page": "201-205",
+            "publisher": "Nature Publishing Group",
+            "title": "Mapping tree density at a global scale",
+            "type": "article-journal",
+            "volume": "525"
+        },
+        {
+            "author": [
+                {
+                    "family": "Monin",
+                    "given": "Andreí Sergeevich"
+                },
+                {
+                    "family": "Obukhov",
+                    "given": "Aleksandr Mikhaílovich"
+                }
+            ],
+            "container-title": "Contrib. Geophys. Inst. Acad. Sci. USSR",
+            "id": "monin1954",
+            "issue": "163",
+            "issued": {
+                "date-parts": [
+                    [
+                        1954
+                    ]
+                ]
+            },
+            "page": "e187",
+            "title": "Basic laws of turbulent mixing in the surface layer of the atmosphere",
+            "type": "article-journal",
+            "volume": "151"
+        },
+        {
+            "author": [
+                {
+                    "family": "Mortarini",
+                    "given": "L."
+                },
+                {
+                    "family": "Katul",
+                    "given": "G."
+                },
+                {
+                    "family": "Cava",
+                    "given": "D."
+                },
+                {
+                    "family": "Dias-Júnior",
+                    "given": "C. Q."
+                },
+                {
+                    "family": "Diaz",
+                    "given": "N."
+                },
+                {
+                    "family": "Chamecki",
+                    "given": "M."
+                }
+            ],
+            "id": "mortarini2023",
+            "issued": {
+                "date-parts": [
+                    [
+                        2023
+                    ]
+                ]
+            },
+            "title": "Adjustments to the law-of-the wall above an amazon forest explained by a spectral link",
+            "type": "article-journal"
+        },
+        {
+            "author": [
+                {
+                    "family": "Dupont",
+                    "given": "Sylvain"
+                },
+                {
+                    "family": "Patton",
+                    "given": "Edward G"
+                }
+            ],
+            "container-title": "Boundary-Layer Meteorology",
+            "id": "dupont2022",
+            "issued": {
+                "date-parts": [
+                    [
+                        2022
+                    ]
+                ]
+            },
+            "page": "1-36",
+            "publisher": "Springer",
+            "title": "On the influence of large-scale atmospheric motions on near-surface turbulence: Comparison between flows over low-roughness and tall vegetation canopies",
+            "title-short": "On the influence of large-scale atmospheric motions on near-surface turbulence",
+            "type": "article-journal"
+        },
+        {
+            "DOI": "10.1017/CBO9780511840531",
+            "author": [
+                {
+                    "family": "Pope",
+                    "given": "Stephen B."
+                }
+            ],
+            "id": "pope2000",
+            "issued": {
+                "date-parts": [
+                    [
+                        2000
+                    ]
+                ]
+            },
+            "publisher": "Cambridge University Press",
+            "title": "Turbulent flows",
+            "type": "book"
+        },
+        {
+            "author": [
+                {
+                    "family": "Kolmogorov",
+                    "given": "A. N."
+                }
+            ],
+            "container-title": "Dokl. Akad. Nauk SSSR",
+            "id": "kolmogorov1941",
+            "issue": "4",
+            "issued": {
+                "date-parts": [
+                    [
+                        1941
+                    ]
+                ]
+            },
+            "page": "299-301",
+            "title": "Local structure of turbulence in incompressible viscous fluid for very large reynolds number",
+            "type": "article-journal",
+            "volume": "30"
+        }
+    ],
+    "project_biblios": []
+}

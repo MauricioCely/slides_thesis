@@ -1,0 +1,60 @@
+/********** Customise First slide **********/
+
+.reveal .title {
+  font-size: 1.7em !important;
+  line-height: 0.5;
+  padding-bottom: 50px;
+  color: white;
+  text-shadow: 2px 2px 8px #191919;
+}
+
+
+.reveal .subtitle {
+  font-size: 0.9em !important;
+  color: white;
+  text-shadow: 2px 2px 8px #191919;
+}
+
+.reveal .author {
+  font-size: 0.9em;
+  text-align: left;
+  color: white;
+  text-shadow: 2px 2px 8px #191919;
+}
+
+.reveal .institute {
+    font-size: 0.9em;
+    text-align: left;
+    color: white;
+    text-shadow: 2px 2px 8px #191919;
+}
+
+.reveal .date {
+    font-style: regular;
+    font-size: 0.7em;
+    padding-top: 50px;
+    color: white;
+    text-shadow: 2px 2px 8px #191919;
+}
+
+.reveal .footer {
+  color: #191919 ;
+  padding: 5px 25px 5px;
+}
+
+#title-slide a {
+  color: white;
+  text-shadow: 2px 2px 8px #191919;
+  
+}
+
+#title-slide a:hover {
+  color: white;
+  text-shadow: 2px 2px 8px #d52b40;
+  
+}
+
+#TOC {
+  font-size: 0.6em;
+}
+
